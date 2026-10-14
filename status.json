@@ -1,20 +1,25 @@
 {
-    "readOnly":  true,
-    "parseStatus":  "OK",
-    "programState":  "在跑",
-    "autonomousHandoff":  "開啟",
-    "postman":  "開啟",
-    "humanGatesPending":  13,
-    "githubSync":  "成功",
-    "lastSuccessfulSync":  "2026-10-14 12:05",
-    "recentOrderStatusCounts":  {
-                                    "完成":  5,
-                                    "失敗":  0,
-                                    "需要 Owner":  3,
-                                    "進行中":  0,
-                                    "結果不明":  0
-                                },
-    "generatedUtc":  "2026-10-14T04:10:18.4090627Z",
-    "sourceSha256":  "265FCF4CC7B825D38827580B9CB5CFA38967165A3F3B54B1428E922D57477B5C",
-    "staleAfterMinutes":  30
+  "readOnly": true,
+  "parseStatus": "OK",
+  "plainLines": [
+    "現在：沒有工單在跑",
+    "卡住：沒有",
+    "要你做的事：有 20 件等你決定（請看總覽頁的人工關卡）"
+  ],
+  "programState": "在跑",
+  "autonomousHandoff": "開啟",
+  "postman": "開啟",
+  "humanGatesPending": 18,
+  "githubSync": "成功",
+  "lastSuccessfulSync": "2026-10-14 18:48",
+  "recentOrderStatusCounts": {
+    "完成": 6,
+    "失敗": 0,
+    "需要 Owner": 2,
+    "進行中": 0,
+    "結果不明": 0
+  },
+  "generatedUtc": "2026-10-14T10:51:43.0714188Z",
+  "sourceSha256": "67F68DCBCC93F1C256A0A82AF6F389DBD3F886DE1AFB767F5F3AABD91F3FBA1E",
+  "staleAfterMinutes": 30
 }
