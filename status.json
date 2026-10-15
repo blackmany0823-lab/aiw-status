@@ -4,28 +4,28 @@
   "plainLines": [
     "現在：沒有工單在跑",
     "卡住：沒有",
-    "要你做的事：有 23 件等你決定（請看總覽頁的人工關卡）"
+    "要你做的事：有 24 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
   "autonomousHandoff": "開啟",
   "postman": "開啟",
   "humanGatesPending": 20,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-15 21:29",
+  "lastSuccessfulSync": "2026-10-15 21:49",
   "recentOrderStatusCounts": {
-    "完成": 7,
+    "完成": 6,
     "失敗": 1,
-    "需要 Owner": 0,
+    "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 0
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 64,
+      "fiveHourRemainingPercent": 63,
       "weeklyRemainingPercent": 94
     },
     "claude": {
-      "fiveHourRemainingPercent": 77,
+      "fiveHourRemainingPercent": 76,
       "weeklyRemainingPercent": 11
     }
   },
@@ -71,11 +71,11 @@
         "working": 0,
         "waitingReview": 7,
         "reviewing": 0,
-        "waitingOwner": 0
+        "waitingOwner": 1
       }
     }
   ],
-  "generatedUtc": "2026-10-15T13:39:03.9068150Z",
-  "sourceSha256": "C7FF1DABDC60E0FC112A0C5E744C0A1A8D7F320DA1195758854986CFABC69B58",
+  "generatedUtc": "2026-10-15T13:54:03.1162680Z",
+  "sourceSha256": "107D4915816BDD71A8E3495B2C68FFD15DBFF3E82DAA59FADC0D4BC2E1315BFF",
   "staleAfterMinutes": 30
 }
