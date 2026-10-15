@@ -3,7 +3,7 @@
   "parseStatus": "OK",
   "plainLines": [
     "現在：沒有工單在跑",
-    "卡住：沒有",
+    "卡住：手機網頁超過 30 分鐘沒更新。",
     "要你做的事：有 10 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
@@ -71,7 +71,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-15T19:29:12.9404505Z",
-  "sourceSha256": "BA9E62E3D91528C764E7DC479E5162268AD9A79061A9DB95EF07359BF94F418C",
+  "generatedUtc": "2026-10-15T19:59:40.8285264Z",
+  "sourceSha256": "574B50148BADDECAC27C6B818560F5B698B1248FB09187E31D58A6F08BCF8176",
   "staleAfterMinutes": 30
 }
