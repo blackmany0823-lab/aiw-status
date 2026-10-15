@@ -3,30 +3,30 @@
   "parseStatus": "OK",
   "plainLines": [
     "現在：沒有工單在跑",
-    "卡住：手機網頁超過 30 分鐘沒更新。",
-    "要你做的事：有 24 件等你決定（請看總覽頁的人工關卡）"
+    "卡住：沒有",
+    "要你做的事：有 10 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
   "autonomousHandoff": "開啟",
   "postman": "開啟",
-  "humanGatesPending": 21,
-  "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-15 22:05",
+  "humanGatesPending": 22,
+  "githubSync": "失敗",
+  "lastSuccessfulSync": "UNKNOWN",
   "recentOrderStatusCounts": {
-    "完成": 6,
+    "完成": 4,
     "失敗": 1,
-    "需要 Owner": 1,
+    "需要 Owner": 2,
     "進行中": 0,
-    "結果不明": 0
+    "結果不明": 1
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 63,
+      "fiveHourRemainingPercent": 61,
       "weeklyRemainingPercent": 94
     },
     "claude": {
-      "fiveHourRemainingPercent": 34,
-      "weeklyRemainingPercent": 8
+      "fiveHourRemainingPercent": 17,
+      "weeklyRemainingPercent": 7
     }
   },
   "projects": [
@@ -34,9 +34,9 @@
       "category": "未分類",
       "shade": "medium",
       "counts": {
-        "queued": 10,
+        "queued": 0,
         "working": 0,
-        "waitingReview": 52,
+        "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 17
       }
@@ -47,7 +47,7 @@
       "counts": {
         "queued": 0,
         "working": 0,
-        "waitingReview": 12,
+        "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 1
       }
@@ -58,7 +58,7 @@
       "counts": {
         "queued": 0,
         "working": 0,
-        "waitingReview": 5,
+        "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 0
       }
@@ -69,13 +69,13 @@
       "counts": {
         "queued": 0,
         "working": 0,
-        "waitingReview": 8,
+        "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 1
+        "waitingOwner": 2
       }
     }
   ],
-  "generatedUtc": "2026-10-15T14:25:40.6608791Z",
-  "sourceSha256": "45FC706AF0E5F00E3E1BE3079D7332634A0DF237B119BB21BAC91FE0D552AA09",
+  "generatedUtc": "2026-10-15T14:40:41.3905451Z",
+  "sourceSha256": "2B8959536EFDB831B73CABAF4083C586A0D2A948E7D3BA6A186ECCFB26241DDE",
   "staleAfterMinutes": 30
 }
