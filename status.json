@@ -11,7 +11,7 @@
   "postman": "開啟",
   "humanGatesPending": 20,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-15 12:43",
+  "lastSuccessfulSync": "2026-10-15 13:24",
   "recentOrderStatusCounts": {
     "完成": 8,
     "失敗": 0,
@@ -20,23 +20,51 @@
     "結果不明": 0
   },
   "usage": {
+    "openai": {
+      "fiveHourRemainingPercent": 95,
+      "weeklyRemainingPercent": 73
+    },
     "claude": {
-      "fiveHourRemainingPercent": 96,
-      "weeklyRemainingPercent": 17
+      "fiveHourRemainingPercent": 89,
+      "weeklyRemainingPercent": 16
     }
   },
   "projects": [
     {
-      "label": "未命名專案",
-      "color": "gray",
-      "postmanQueued": 10,
-      "codexRunning": 0,
-      "claudeCodeRunning": 0,
-      "waitingOwner": 20,
-      "doneRecent": 41
+      "category": "未分類",
+      "shade": "medium",
+      "counts": {
+        "queued": 10,
+        "working": 0,
+        "waitingReview": 52,
+        "reviewing": 0,
+        "waitingOwner": 17
+      }
+    },
+    {
+      "category": "維護",
+      "shade": "medium",
+      "counts": {
+        "queued": 0,
+        "working": 0,
+        "waitingReview": 11,
+        "reviewing": 0,
+        "waitingOwner": 1
+      }
+    },
+    {
+      "category": "專案",
+      "shade": "medium",
+      "counts": {
+        "queued": 0,
+        "working": 0,
+        "waitingReview": 4,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
-  "generatedUtc": "2026-10-15T05:12:17.0534563Z",
-  "sourceSha256": "1BED0C3CC09399719926F6CE56600EE99A641C5A24DC8D3249CD03C3E960EB9E",
+  "generatedUtc": "2026-10-15T05:27:16.5652746Z",
+  "sourceSha256": "107706D39EC51518256D0786CED3A1DD17D49D8D7E09DF797C6879A73E6EAC06",
   "staleAfterMinutes": 30
 }
