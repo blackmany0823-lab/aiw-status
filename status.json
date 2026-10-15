@@ -19,16 +19,7 @@
     "進行中": 0,
     "結果不明": 0
   },
-  "usage": {
-    "openai": {
-      "fiveHourRemainingPercent": 87,
-      "weeklyRemainingPercent": 74
-    },
-    "claude": {
-      "fiveHourRemainingPercent": 83,
-      "weeklyRemainingPercent": 19
-    }
-  },
+  "usage": {},
   "projects": [
     {
       "label": "未命名專案",
@@ -37,10 +28,10 @@
       "codexRunning": 0,
       "claudeCodeRunning": 0,
       "waitingOwner": 20,
-      "doneRecent": 42
+      "doneRecent": 38
     }
   ],
-  "generatedUtc": "2026-10-15T00:43:48.8850729Z",
+  "generatedUtc": "2026-10-15T02:43:16.3930433Z",
   "sourceSha256": "F9DC3230BE1026F9C06AA9EADFBCAE810A4BF3A06266939A5CED815FF2C07E63",
   "staleAfterMinutes": 30
 }
