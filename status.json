@@ -10,12 +10,12 @@
   "autonomousHandoff": "開啟",
   "postman": "開啟",
   "humanGatesPending": 20,
-  "githubSync": "失敗",
-  "lastSuccessfulSync": "UNKNOWN",
+  "githubSync": "成功",
+  "lastSuccessfulSync": "2026-10-15 08:22",
   "recentOrderStatusCounts": {
-    "完成": 7,
+    "完成": 8,
     "失敗": 0,
-    "需要 Owner": 1,
+    "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
   },
@@ -25,7 +25,7 @@
       "weeklyRemainingPercent": 74
     },
     "claude": {
-      "fiveHourRemainingPercent": 86,
+      "fiveHourRemainingPercent": 84,
       "weeklyRemainingPercent": 19
     }
   },
@@ -37,10 +37,10 @@
       "codexRunning": 0,
       "claudeCodeRunning": 0,
       "waitingOwner": 20,
-      "doneRecent": 41
+      "doneRecent": 42
     }
   ],
-  "generatedUtc": "2026-10-15T00:13:23.8033733Z",
-  "sourceSha256": "EF85E6C72A35851569EEF8DE5DBB4CE5A8D33BA928CA96476B671EA232FCC5AB",
+  "generatedUtc": "2026-10-15T00:28:33.9905163Z",
+  "sourceSha256": "55E536079198C47F19F69D87F67A156132EB3C8BC2E9F49510E663444E76600C",
   "staleAfterMinutes": 30
 }
