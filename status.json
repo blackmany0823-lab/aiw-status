@@ -20,13 +20,9 @@
     "結果不明": 1
   },
   "usage": {
-    "openai": {
-      "fiveHourRemainingPercent": 97,
-      "weeklyRemainingPercent": 93
-    },
     "claude": {
-      "fiveHourRemainingPercent": 80,
-      "weeklyRemainingPercent": 3
+      "fiveHourRemainingPercent": 73,
+      "weeklyRemainingPercent": 2
     }
   },
   "projects": [
@@ -75,7 +71,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-16T00:18:20.2142451Z",
-  "sourceSha256": "55FF49F4BA5C698FE92606C0808A9F6E1A50B0E2DDBCB9E2FED5880ACDED6518",
+  "generatedUtc": "2026-10-16T00:33:24.4418694Z",
+  "sourceSha256": "DE36FEBA1D1B381F760F014C073E0533C961E89C6C28E9211AB98A812AD0C1C0",
   "staleAfterMinutes": 30
 }
