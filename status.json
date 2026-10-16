@@ -21,12 +21,12 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 59,
+      "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 86
     },
     "claude": {
-      "fiveHourRemainingPercent": 100,
-      "weeklyRemainingPercent": 90
+      "fiveHourRemainingPercent": 94,
+      "weeklyRemainingPercent": 89
     }
   },
   "projects": [
@@ -75,7 +75,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-16T15:04:30.2483786Z",
-  "sourceSha256": "2FA0E5147E98993E532D2FF01EF41A5421265D628B84092719F1BA9D8901AAB2",
+  "generatedUtc": "2026-10-16T15:19:38.9123833Z",
+  "sourceSha256": "0ADCB37EA4858FBA4AB4E6081613F8CC58072E6111DBFD039E927C41DF8F1E84",
   "staleAfterMinutes": 30
 }
