@@ -4,7 +4,7 @@
   "plainLines": [
     "現在：沒有工單在跑",
     "卡住：沒有",
-    "要你做的事：有 11 件等你決定（請看總覽頁的人工關卡）"
+    "要你做的事：有 12 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
   "autonomousHandoff": "開啟",
@@ -15,9 +15,9 @@
   "recentOrderStatusCounts": {
     "完成": 6,
     "失敗": 0,
-    "需要 Owner": 1,
+    "需要 Owner": 2,
     "進行中": 0,
-    "結果不明": 1
+    "結果不明": 0
   },
   "usage": {
     "openai": {
@@ -25,8 +25,8 @@
       "weeklyRemainingPercent": 93
     },
     "claude": {
-      "fiveHourRemainingPercent": 90,
-      "weeklyRemainingPercent": 98
+      "fiveHourRemainingPercent": 94,
+      "weeklyRemainingPercent": 97
     }
   },
   "projects": [
@@ -60,7 +60,7 @@
         "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 1
+        "waitingOwner": 2
       }
     },
     {
@@ -75,7 +75,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-16T09:55:43.8645644Z",
-  "sourceSha256": "BB74F75D31B3E7FBD788B0D4972FF6C21510977FE7F1077DCBD9B55BCD60B9C3",
+  "generatedUtc": "2026-10-16T10:11:00.3972958Z",
+  "sourceSha256": "E6CE2F6990CAC19F91EB972B10B793C5714E3A07D1B873C11EB3DC5303A954DE",
   "staleAfterMinutes": 30
 }
