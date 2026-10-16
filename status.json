@@ -3,7 +3,7 @@
   "parseStatus": "OK",
   "plainLines": [
     "現在：沒有工單在跑",
-    "卡住：手機網頁超過 30 分鐘沒更新。",
+    "卡住：沒有",
     "要你做的事：有 10 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
@@ -13,16 +13,20 @@
   "githubSync": "失敗",
   "lastSuccessfulSync": "UNKNOWN",
   "recentOrderStatusCounts": {
-    "完成": 5,
+    "完成": 6,
     "失敗": 0,
-    "需要 Owner": 2,
+    "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 1
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 99,
+      "fiveHourRemainingPercent": 97,
       "weeklyRemainingPercent": 93
+    },
+    "claude": {
+      "fiveHourRemainingPercent": 85,
+      "weeklyRemainingPercent": 4
     }
   },
   "projects": [
@@ -71,7 +75,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-15T23:47:57.1340346Z",
-  "sourceSha256": "DCCD368D0FEA8CA86284ABA3318896AE54B16AFEDB987A1F8D17D72152B621AE",
+  "generatedUtc": "2026-10-16T00:03:08.9728211Z",
+  "sourceSha256": "FC1326018B84A1F91A891A7FDFFA7CE94753AABEA4A9D00E16B0E31884BD9699",
   "staleAfterMinutes": 30
 }
