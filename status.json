@@ -3,7 +3,7 @@
   "parseStatus": "OK",
   "plainLines": [
     "現在：沒有工單在跑",
-    "卡住：沒有",
+    "卡住：手機網頁超過 30 分鐘沒更新。",
     "要你做的事：有 31 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
@@ -11,7 +11,7 @@
   "postman": "開啟",
   "humanGatesPending": 31,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-21 17:37",
+  "lastSuccessfulSync": "2026-10-21 18:22",
   "recentOrderStatusCounts": {
     "完成": 5,
     "失敗": 2,
@@ -71,7 +71,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-21T09:53:06.8490392Z",
-  "sourceSha256": "23E19C8A5B7D6D49FEB4786926C890755868133EC4CF5DFB37D5A833AD73FE93",
+  "generatedUtc": "2026-10-21T10:23:34.4637421Z",
+  "sourceSha256": "2B50D1E3A6BB70AFC9DF3DA31E24E9F4A40D9A88BA83D5441C5766C1B829F354",
   "staleAfterMinutes": 30
 }
