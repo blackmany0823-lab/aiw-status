@@ -21,17 +21,17 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 99,
+      "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 100,
-      "fiveHourResetsUtc": "2026-10-22T22:37:13Z",
+      "fiveHourResetsUtc": "2026-10-23T03:37:17Z",
       "weeklyResetsUtc": "2026-10-29T17:37:13Z",
-      "capturedUtc": "2026-10-22T22:36:53Z"
+      "capturedUtc": "2026-10-22T22:51:40Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 20,
       "weeklyResetsUtc": "2026-10-23T04:59:00Z",
-      "capturedUtc": "2026-10-22T22:34:22Z"
+      "capturedUtc": "2026-10-22T22:48:09Z"
     }
   },
   "projects": [
@@ -80,7 +80,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-22T22:37:33.9771625Z",
-  "sourceSha256": "5DBEB50109B3DA513E157CE2472C39F0C065B6BB1999AFF97C2833914255BCCB",
+  "generatedUtc": "2026-10-22T22:52:42.2900813Z",
+  "sourceSha256": "2F25693EE634291A1EAE0763AA3F7BDCE5F9144081F415C14B5B9F907414EE7A",
   "staleAfterMinutes": 30
 }
