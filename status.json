@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 1 張工單正在處理",
+    "現在：沒有工單在跑",
     "卡住：沒有",
     "要你做的事：有 49 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -15,23 +15,23 @@
   "recentOrderStatusCounts": {
     "完成": 6,
     "失敗": 1,
-    "需要 Owner": 0,
+    "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 0
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 98,
+      "fiveHourRemainingPercent": 97,
       "weeklyRemainingPercent": 100,
       "fiveHourResetsUtc": "2026-10-23T23:07:59Z",
       "weeklyResetsUtc": "2026-10-30T18:07:59Z",
-      "capturedUtc": "2026-10-23T22:09:51Z"
+      "capturedUtc": "2026-10-23T22:25:44Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 92,
+      "fiveHourRemainingPercent": 91,
       "weeklyRemainingPercent": 75,
       "fiveHourResetsUtc": "2026-10-24T02:20:00Z",
-      "capturedUtc": "2026-10-23T22:08:35Z"
+      "capturedUtc": "2026-10-23T22:24:15Z"
     }
   },
   "projects": [
@@ -40,10 +40,10 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 32
+        "waitingOwner": 33
       }
     },
     {
@@ -80,7 +80,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-23T22:10:43.1940456Z",
-  "sourceSha256": "F1EBD5367DDE0B84AF13F1066C9ED0E087E48FFD03C09847AFE70E4821E8C62A",
+  "generatedUtc": "2026-10-23T22:25:51.5247991Z",
+  "sourceSha256": "E6BEBAA1E70C493032824A99E7BC7D5CE6E6820CB6B78DAD8787E45D23F1CECA",
   "staleAfterMinutes": 30
 }
