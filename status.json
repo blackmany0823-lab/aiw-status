@@ -13,8 +13,8 @@
   "githubSync": "失敗",
   "lastSuccessfulSync": "UNKNOWN",
   "recentOrderStatusCounts": {
-    "完成": 5,
-    "失敗": 0,
+    "完成": 4,
+    "失敗": 1,
     "需要 Owner": 2,
     "進行中": 0,
     "結果不明": 0
@@ -25,13 +25,13 @@
       "weeklyRemainingPercent": 100,
       "fiveHourResetsUtc": "2026-10-23T23:07:59Z",
       "weeklyResetsUtc": "2026-10-30T18:07:59Z",
-      "capturedUtc": "2026-10-23T18:38:13Z"
+      "capturedUtc": "2026-10-23T18:53:03Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 74,
+      "fiveHourRemainingPercent": 73,
       "weeklyRemainingPercent": 78,
       "fiveHourResetsUtc": "2026-10-23T21:20:00Z",
-      "capturedUtc": "2026-10-23T18:35:52Z"
+      "capturedUtc": "2026-10-23T18:51:31Z"
     }
   },
   "projects": [
@@ -80,7 +80,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-23T18:38:33.1636112Z",
-  "sourceSha256": "1FE2636BCA030F06EC3E1FD28134CDB219C0A9E4329104EA0790A14888F1665A",
+  "generatedUtc": "2026-10-23T18:53:40.1117655Z",
+  "sourceSha256": "0350EA5C0679C86CA81A9E9132293F2E61EFF97B0412EEA2AC3A250E7DAE3256",
   "staleAfterMinutes": 30
 }
