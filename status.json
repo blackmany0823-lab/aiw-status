@@ -11,7 +11,7 @@
   "postman": "開啟",
   "humanGatesPending": 42,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-23 11:08",
+  "lastSuccessfulSync": "2026-10-23 11:24",
   "recentOrderStatusCounts": {
     "完成": 5,
     "失敗": 1,
@@ -21,17 +21,17 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 92,
-      "weeklyRemainingPercent": 99,
+      "fiveHourRemainingPercent": 91,
+      "weeklyRemainingPercent": 98,
       "fiveHourResetsUtc": "2026-10-23T03:37:17Z",
       "weeklyResetsUtc": "2026-10-29T17:37:13Z",
-      "capturedUtc": "2026-10-23T03:09:20Z"
+      "capturedUtc": "2026-10-23T03:24:09Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 75,
-      "weeklyRemainingPercent": 16,
+      "fiveHourRemainingPercent": 68,
+      "weeklyRemainingPercent": 15,
       "fiveHourResetsUtc": "2026-10-23T06:20:00Z",
-      "capturedUtc": "2026-10-23T03:09:05Z"
+      "capturedUtc": "2026-10-23T03:25:03Z"
     }
   },
   "projects": [
@@ -40,7 +40,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 25
@@ -78,9 +78,20 @@
         "reviewing": 0,
         "waitingOwner": 10
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
-  "generatedUtc": "2026-10-23T03:09:52.6344562Z",
-  "sourceSha256": "7F842DCC0B7EED78233E7CFC21F3CC131D1DD8A5647F24EA3DEC285D5CBD307A",
+  "generatedUtc": "2026-10-23T03:25:08.0163320Z",
+  "sourceSha256": "6D81CF5EB1F235469AE05F46ED45252A1490B751D8CC2D54D6F98C2EC8D99075",
   "staleAfterMinutes": 30
 }
