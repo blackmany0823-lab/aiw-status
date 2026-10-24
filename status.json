@@ -30,14 +30,13 @@
       "weeklyRemainingPercent": 96,
       "fiveHourResetsUtc": "2026-10-24T19:08:40Z",
       "weeklyResetsUtc": "2026-10-30T18:07:59Z",
-      "capturedUtc": "2026-10-24T17:36:40Z"
+      "capturedUtc": "2026-10-24T17:51:28Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 9,
+      "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 57,
-      "fiveHourResetsUtc": "2026-10-24T17:49:00Z",
       "weeklyResetsUtc": "2026-10-30T04:59:00Z",
-      "capturedUtc": "2026-10-24T17:35:58Z"
+      "capturedUtc": "2026-10-24T17:51:56Z"
     }
   },
   "projects": [
@@ -86,7 +85,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-24T17:37:05.1193453Z",
-  "sourceSha256": "E89D23D4DA84BCBE389BED2A9F94A6FBC7569047CB9EA22B515AD2D28546C4DF",
+  "generatedUtc": "2026-10-24T17:52:13.9710142Z",
+  "sourceSha256": "1B7D7F81FE8E2D840F4095911578955F98517BD2B543598934C646EFEA886D3A",
   "staleAfterMinutes": 30
 }
