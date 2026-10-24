@@ -14,14 +14,14 @@
   "lastSuccessfulSync": "UNKNOWN",
   "recentOrderStatusCounts": {
     "完成": 7,
-    "失敗": 0,
-    "需要 Owner": 1,
+    "失敗": 1,
+    "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
     "Claude Code": 237,
-    "Codex": 229,
+    "Codex": 230,
     "其他": 110
   },
   "usage": {
@@ -30,13 +30,13 @@
       "weeklyRemainingPercent": 96,
       "fiveHourResetsUtc": "2026-10-24T19:08:40Z",
       "weeklyResetsUtc": "2026-10-30T18:07:59Z",
-      "capturedUtc": "2026-10-24T16:06:13Z"
+      "capturedUtc": "2026-10-24T16:20:38Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 15,
-      "weeklyRemainingPercent": 58,
+      "fiveHourRemainingPercent": 14,
+      "weeklyRemainingPercent": 57,
       "fiveHourResetsUtc": "2026-10-24T17:50:00Z",
-      "capturedUtc": "2026-10-24T16:05:32Z"
+      "capturedUtc": "2026-10-24T16:17:06Z"
     }
   },
   "projects": [
@@ -85,7 +85,7 @@
       }
     }
   ],
-  "generatedUtc": "2026-10-24T16:06:21.5961437Z",
-  "sourceSha256": "E5793F5609C5E84B3AD47440D79901BA4CFF966C4A9847E4E38816CE3F69D987",
+  "generatedUtc": "2026-10-24T16:21:24.8823181Z",
+  "sourceSha256": "C5961862311925F477CFFC00511D489046FD94B7128CF5409629F4857B62BD7F",
   "staleAfterMinutes": 30
 }
