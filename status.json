@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 2 張工單正在處理",
+    "現在：沒有工單在跑",
     "卡住：沒有",
     "要你做的事：有 69 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,10 +11,10 @@
   "postman": "開啟",
   "humanGatesPending": 69,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-26 21:05",
+  "lastSuccessfulSync": "2026-10-26 21:23",
   "recentOrderStatusCounts": {
-    "完成": 4,
-    "失敗": 1,
+    "完成": 5,
+    "失敗": 2,
     "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 0
@@ -26,17 +26,17 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 83,
+      "fiveHourRemainingPercent": 80,
       "weeklyRemainingPercent": 96,
       "fiveHourResetsUtc": "2026-10-26T16:23:28Z",
       "weeklyResetsUtc": "2026-11-02T06:23:27Z",
-      "capturedUtc": "2026-10-26T13:08:29Z"
+      "capturedUtc": "2026-10-26T13:23:11Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 50,
+      "fiveHourRemainingPercent": 44,
       "weeklyRemainingPercent": 16,
       "fiveHourResetsUtc": "2026-10-26T15:20:00Z",
-      "capturedUtc": "2026-10-26T13:06:02Z"
+      "capturedUtc": "2026-10-26T13:23:30Z"
     }
   },
   "projects": [
@@ -45,7 +45,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 47
@@ -83,24 +83,13 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
-    },
-    {
-      "category": "未分類",
-      "shade": "light",
-      "counts": {
-        "queued": 0,
-        "working": 1,
-        "waitingReview": 0,
-        "reviewing": 0,
-        "waitingOwner": 0
-      }
     }
   ],
   "gitSync": {
-    "pendingCommits": 1,
-    "lastCheckedUtc": "2026-10-26T13:08:24Z"
+    "pendingCommits": 0,
+    "lastCheckedUtc": "2026-10-26T13:23:52Z"
   },
-  "generatedUtc": "2026-10-26T13:08:49.2376914Z",
-  "sourceSha256": "C628FC997AD512DB41074F0DB05917722FC005512C126AA60F13412D628F8585",
+  "generatedUtc": "2026-10-26T13:24:10.4038499Z",
+  "sourceSha256": "1FFA1351C5F9290EB2E98E1CF5B23F5C25024FF77DA2905FD9E440956DF9EFBB",
   "staleAfterMinutes": 30
 }
