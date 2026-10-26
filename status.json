@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 2 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 67 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,33 +11,32 @@
   "postman": "開啟",
   "humanGatesPending": 67,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-26 10:24",
+  "lastSuccessfulSync": "2026-10-26 10:57",
   "recentOrderStatusCounts": {
-    "完成": 6,
-    "失敗": 1,
+    "完成": 5,
+    "失敗": 0,
     "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 274,
-    "Codex": 276,
-    "其他": 131
+    "Claude Code": 276,
+    "Codex": 277,
+    "其他": 132
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 100,
-      "weeklyRemainingPercent": 82,
+      "fiveHourRemainingPercent": 99,
+      "weeklyRemainingPercent": 81,
       "fiveHourResetsUtc": "2026-10-26T07:23:23Z",
       "weeklyResetsUtc": "2026-11-01T06:23:02Z",
-      "capturedUtc": "2026-10-26T02:44:16Z"
+      "capturedUtc": "2026-10-26T02:59:07Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 66,
+      "fiveHourRemainingPercent": 60,
       "weeklyRemainingPercent": 27,
-      "fiveHourResetsUtc": "2026-10-26T05:09:00Z",
-      "weeklyResetsUtc": "2026-10-30T04:59:00Z",
-      "capturedUtc": "2026-10-26T02:42:05Z"
+      "fiveHourResetsUtc": "2026-10-26T05:10:00Z",
+      "capturedUtc": "2026-10-26T02:57:49Z"
     }
   },
   "projects": [
@@ -84,13 +83,35 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-10-26T02:43:36Z"
+    "lastCheckedUtc": "2026-10-26T02:58:59Z"
   },
-  "generatedUtc": "2026-10-26T02:44:41.5669070Z",
-  "sourceSha256": "61E9F5391DF96A2AA092B53A27F8CC09B999EB78587E958203D415D35B712A4F",
+  "generatedUtc": "2026-10-26T02:59:50.0131827Z",
+  "sourceSha256": "277CBBDF6DBD286E49DE54ABB3B110279C3D9F1BFACE9BEAC38CCD887ADCF03C",
   "staleAfterMinutes": 30
 }
