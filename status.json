@@ -4,39 +4,39 @@
   "plainLines": [
     "現在：有 1 張工單正在處理",
     "卡住：沒有",
-    "要你做的事：有 67 件等你決定（請看總覽頁的人工關卡）"
+    "要你做的事：有 69 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
   "autonomousHandoff": "開啟",
   "postman": "開啟",
-  "humanGatesPending": 67,
+  "humanGatesPending": 69,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-26 11:58",
+  "lastSuccessfulSync": "2026-10-26 12:12",
   "recentOrderStatusCounts": {
-    "完成": 7,
+    "完成": 5,
     "失敗": 0,
-    "需要 Owner": 0,
+    "需要 Owner": 2,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 277,
-    "Codex": 279,
+    "Claude Code": 278,
+    "Codex": 280,
     "其他": 134
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 92,
+      "fiveHourRemainingPercent": 91,
       "weeklyRemainingPercent": 80,
       "fiveHourResetsUtc": "2026-10-26T07:23:23Z",
       "weeklyResetsUtc": "2026-11-01T06:23:02Z",
-      "capturedUtc": "2026-10-26T04:00:06Z"
+      "capturedUtc": "2026-10-26T04:15:03Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 56,
+      "fiveHourRemainingPercent": 53,
       "weeklyRemainingPercent": 26,
       "fiveHourResetsUtc": "2026-10-26T05:10:00Z",
-      "capturedUtc": "2026-10-26T03:56:56Z"
+      "capturedUtc": "2026-10-26T04:13:03Z"
     }
   },
   "projects": [
@@ -45,10 +45,10 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 45
+        "waitingOwner": 46
       }
     },
     {
@@ -70,7 +70,7 @@
         "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 6
+        "waitingOwner": 7
       }
     },
     {
@@ -83,24 +83,13 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
-    },
-    {
-      "category": "未分類",
-      "shade": "dark",
-      "counts": {
-        "queued": 0,
-        "working": 1,
-        "waitingReview": 0,
-        "reviewing": 0,
-        "waitingOwner": 0
-      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-10-26T03:59:50Z"
+    "lastCheckedUtc": "2026-10-26T04:15:04Z"
   },
-  "generatedUtc": "2026-10-26T04:00:22.9822087Z",
-  "sourceSha256": "494A9CF9767E18ACBB73DDB938BE14552E418AA6DD54EB95E44C75CB7DA3FAEC",
+  "generatedUtc": "2026-10-26T04:15:23.6295572Z",
+  "sourceSha256": "C972A48BD98C44858444C90EB8428DF65415FEE9F7646BF6A43A551D4B5E7CBB",
   "staleAfterMinutes": 30
 }
