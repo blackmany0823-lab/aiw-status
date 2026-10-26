@@ -2,41 +2,41 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 1 張工單正在處理",
+    "現在：沒有工單在跑",
     "卡住：沒有",
-    "要你做的事：有 66 件等你決定（請看總覽頁的人工關卡）"
+    "要你做的事：有 67 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
   "autonomousHandoff": "開啟",
   "postman": "開啟",
-  "humanGatesPending": 66,
+  "humanGatesPending": 67,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-26 09:24",
+  "lastSuccessfulSync": "2026-10-26 09:43",
   "recentOrderStatusCounts": {
-    "完成": 5,
-    "失敗": 2,
-    "需要 Owner": 0,
+    "完成": 6,
+    "失敗": 1,
+    "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
     "Claude Code": 273,
-    "Codex": 273,
+    "Codex": 275,
     "其他": 129
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 93,
+      "fiveHourRemainingPercent": 90,
       "weeklyRemainingPercent": 82,
       "fiveHourResetsUtc": "2026-10-26T02:23:16Z",
       "weeklyResetsUtc": "2026-11-01T06:23:02Z",
-      "capturedUtc": "2026-10-26T01:28:34Z"
+      "capturedUtc": "2026-10-26T01:43:22Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 70,
-      "weeklyRemainingPercent": 28,
+      "fiveHourRemainingPercent": 68,
+      "weeklyRemainingPercent": 27,
       "fiveHourResetsUtc": "2026-10-26T05:10:00Z",
-      "capturedUtc": "2026-10-26T01:27:59Z"
+      "capturedUtc": "2026-10-26T01:43:51Z"
     }
   },
   "projects": [
@@ -45,10 +45,10 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 44
+        "waitingOwner": 45
       }
     },
     {
@@ -86,10 +86,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
-    "lastCheckedUtc": "2026-10-26T01:28:36Z"
+    "pendingCommits": 1,
+    "lastCheckedUtc": "2026-10-26T01:43:22Z"
   },
-  "generatedUtc": "2026-10-26T01:29:09.3153811Z",
-  "sourceSha256": "564C6AF244251541B4C8569DBD0DD117F95B3AED11AFEFAC422C9F9F77871309",
+  "generatedUtc": "2026-10-26T01:44:10.6073234Z",
+  "sourceSha256": "A64A83AA17955234E82D9CEDE81BD9E0CB2E08C85242E63A0FBFCFEF5519714E",
   "staleAfterMinutes": 30
 }
