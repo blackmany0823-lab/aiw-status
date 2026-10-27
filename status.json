@@ -11,32 +11,32 @@
   "postman": "開啟",
   "humanGatesPending": 70,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-27 20:19",
+  "lastSuccessfulSync": "2026-10-27 20:32",
   "recentOrderStatusCounts": {
-    "完成": 6,
-    "失敗": 0,
+    "完成": 5,
+    "失敗": 1,
     "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
     "Claude Code": 299,
-    "Codex": 306,
+    "Codex": 307,
     "其他": 149
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 99,
-      "weeklyRemainingPercent": 95,
-      "fiveHourResetsUtc": "2026-10-27T12:23:53Z",
+      "fiveHourRemainingPercent": 98,
+      "weeklyRemainingPercent": 94,
+      "fiveHourResetsUtc": "2026-10-27T17:23:55Z",
       "weeklyResetsUtc": "2026-11-02T06:23:27Z",
-      "capturedUtc": "2026-10-27T12:19:45Z"
+      "capturedUtc": "2026-10-27T12:34:41Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 81,
+      "fiveHourRemainingPercent": 77,
       "weeklyRemainingPercent": 10,
       "fiveHourResetsUtc": "2026-10-27T16:50:00Z",
-      "capturedUtc": "2026-10-27T12:18:49Z"
+      "capturedUtc": "2026-10-27T12:33:07Z"
     }
   },
   "projects": [
@@ -45,7 +45,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 48
@@ -67,7 +67,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 7
@@ -87,9 +87,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-10-27T12:19:37Z"
+    "lastCheckedUtc": "2026-10-27T12:34:46Z"
   },
-  "generatedUtc": "2026-10-27T12:20:35.3233442Z",
-  "sourceSha256": "ACAD72DC70526D322E728F223B305BB8795D625302DA80C1322B58F970770359",
+  "generatedUtc": "2026-10-27T12:35:36.1217173Z",
+  "sourceSha256": "3ECBEC54654503CDBBA83DC4975EF137FD2473F7E75A53E6B98A819912624834",
   "staleAfterMinutes": 30
 }
