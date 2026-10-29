@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 75 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,9 +11,9 @@
   "postman": "開啟",
   "humanGatesPending": 75,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-29 15:54",
+  "lastSuccessfulSync": "2026-10-29 17:39",
   "recentOrderStatusCounts": {
-    "完成": 6,
+    "完成": 5,
     "失敗": 1,
     "需要 Owner": 1,
     "進行中": 0,
@@ -21,22 +21,22 @@
   },
   "agentOrderCounts": {
     "Claude Code": 301,
-    "Codex": 332,
+    "Codex": 333,
     "其他": 149
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 100,
-      "weeklyRemainingPercent": 93,
+      "fiveHourRemainingPercent": 97,
+      "weeklyRemainingPercent": 92,
       "fiveHourResetsUtc": "2026-10-29T12:55:16Z",
       "weeklyResetsUtc": "2026-11-04T06:54:30Z",
-      "capturedUtc": "2026-10-29T09:25:24Z"
+      "capturedUtc": "2026-10-29T09:40:08Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 100,
-      "weeklyRemainingPercent": 4,
-      "weeklyResetsUtc": "2026-10-30T04:59:00Z",
-      "capturedUtc": "2026-10-29T09:22:08Z"
+      "fiveHourRemainingPercent": 96,
+      "weeklyRemainingPercent": 3,
+      "fiveHourResetsUtc": "2026-10-29T14:20:00Z",
+      "capturedUtc": "2026-10-29T09:38:05Z"
     }
   },
   "projects": [
@@ -45,7 +45,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 52
@@ -87,9 +87,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-10-29T09:25:17Z"
+    "lastCheckedUtc": "2026-10-29T09:39:41Z"
   },
-  "generatedUtc": "2026-10-29T09:25:34.1570383Z",
-  "sourceSha256": "B2E98FA2D5E3E3A61C227996C3753439D38282ACAFCFC33F9E03A9243FB86E9D",
+  "generatedUtc": "2026-10-29T09:40:38.8110170Z",
+  "sourceSha256": "91A3C61D5EA48086619A2B5959DB46D479905B7E98475DC4027F8A4CD1E07F8E",
   "staleAfterMinutes": 30
 }
