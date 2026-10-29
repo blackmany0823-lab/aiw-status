@@ -30,12 +30,13 @@
       "weeklyRemainingPercent": 88,
       "fiveHourResetsUtc": "2026-10-29T22:55:33Z",
       "weeklyResetsUtc": "2026-11-04T06:54:30Z",
-      "capturedUtc": "2026-10-29T21:08:07Z"
+      "capturedUtc": "2026-10-29T21:23:08Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 2,
-      "capturedUtc": "2026-10-29T21:06:08Z"
+      "weeklyResetsUtc": "2026-10-30T04:59:00Z",
+      "capturedUtc": "2026-10-29T21:20:15Z"
     }
   },
   "projects": [
@@ -86,9 +87,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-10-29T21:07:42Z"
+    "lastCheckedUtc": "2026-10-29T21:23:05Z"
   },
-  "generatedUtc": "2026-10-29T21:08:31.4105041Z",
+  "generatedUtc": "2026-10-29T21:23:38.2161057Z",
   "sourceSha256": "22CBEFF2214FBAFA9EB0BF9DCCCEEE4AC67C8166818865F57488F92F386D9F23",
   "staleAfterMinutes": 30
 }
