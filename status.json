@@ -11,32 +11,32 @@
   "postman": "開啟",
   "humanGatesPending": 81,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-30 21:43",
+  "lastSuccessfulSync": "2026-10-30 22:00",
   "recentOrderStatusCounts": {
-    "完成": 2,
-    "失敗": 4,
+    "完成": 1,
+    "失敗": 5,
     "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
     "Claude Code": 306,
-    "Codex": 352,
+    "Codex": 353,
     "其他": 149
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 87,
-      "weeklyRemainingPercent": 85,
-      "fiveHourResetsUtc": "2026-10-30T13:55:47Z",
+      "fiveHourRemainingPercent": 99,
+      "weeklyRemainingPercent": 84,
+      "fiveHourResetsUtc": "2026-10-30T18:55:52Z",
       "weeklyResetsUtc": "2026-11-04T06:54:30Z",
-      "capturedUtc": "2026-10-30T13:48:23Z"
+      "capturedUtc": "2026-10-30T14:04:02Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 63,
       "weeklyRemainingPercent": 92,
       "fiveHourResetsUtc": "2026-10-30T14:20:00Z",
-      "capturedUtc": "2026-10-30T13:47:24Z"
+      "capturedUtc": "2026-10-30T14:02:42Z"
     }
   },
   "projects": [
@@ -87,9 +87,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-10-30T13:48:07Z"
+    "lastCheckedUtc": "2026-10-30T14:04:18Z"
   },
-  "generatedUtc": "2026-10-30T13:49:13.1973398Z",
-  "sourceSha256": "1F5FDF612BD5B50214FDBA7A0DD7C6A4326A2F6FB6F63BEEA93838FAADA595DD",
+  "generatedUtc": "2026-10-30T14:04:35.3377746Z",
+  "sourceSha256": "5345798FE9F1D147492751F729DC49769A109B6A005AA05B40767751E4A82BFF",
   "staleAfterMinutes": 30
 }
