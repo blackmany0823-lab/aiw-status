@@ -4,14 +4,14 @@
   "plainLines": [
     "現在：沒有工單在跑",
     "卡住：沒有",
-    "要你做的事：有 81 件等你決定（請看總覽頁的人工關卡）"
+    "要你做的事：有 46 件等你決定（請看總覽頁的人工關卡）"
   ],
   "programState": "在跑",
   "autonomousHandoff": "開啟",
   "postman": "開啟",
-  "humanGatesPending": 81,
+  "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-10-31 14:37",
+  "lastSuccessfulSync": "2026-10-31 15:10",
   "recentOrderStatusCounts": {
     "完成": 2,
     "失敗": 6,
@@ -19,36 +19,28 @@
     "進行中": 0,
     "結果不明": 0
   },
-  "agentOrderCounts": {
-    "Claude Code": 308,
-    "Codex": 354,
-    "其他": 149
-  },
-  "usage": {
-    "openai": {
-      "fiveHourRemainingPercent": 100,
-      "weeklyRemainingPercent": 84,
-      "fiveHourResetsUtc": "2026-10-31T09:56:07Z",
-      "weeklyResetsUtc": "2026-11-04T06:54:30Z",
-      "capturedUtc": "2026-10-31T07:00:57Z"
-    },
-    "claude": {
-      "fiveHourRemainingPercent": 97,
-      "weeklyRemainingPercent": 90,
-      "fiveHourResetsUtc": "2026-10-31T11:30:00Z",
-      "capturedUtc": "2026-10-31T06:59:37Z"
-    }
-  },
+  "usage": {},
   "projects": [
     {
       "category": "未分類",
       "shade": "medium",
       "counts": {
-        "queued": 0,
+        "queued": 132,
         "working": 0,
-        "waitingReview": 0,
+        "waitingReview": 337,
         "reviewing": 0,
-        "waitingOwner": 57
+        "waitingOwner": 64
+      }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 10,
+        "working": 0,
+        "waitingReview": 8,
+        "reviewing": 0,
+        "waitingOwner": 0
       }
     },
     {
@@ -57,9 +49,9 @@
       "counts": {
         "queued": 0,
         "working": 0,
-        "waitingReview": 0,
+        "waitingReview": 27,
         "reviewing": 0,
-        "waitingOwner": 3
+        "waitingOwner": 2
       }
     },
     {
@@ -68,9 +60,9 @@
       "counts": {
         "queued": 0,
         "working": 0,
-        "waitingReview": 0,
+        "waitingReview": 64,
         "reviewing": 0,
-        "waitingOwner": 7
+        "waitingOwner": 6
       }
     },
     {
@@ -79,17 +71,24 @@
       "counts": {
         "queued": 0,
         "working": 0,
+        "waitingReview": 55,
+        "reviewing": 0,
+        "waitingOwner": 10
+      }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 16
+        "waitingOwner": 1
       }
     }
   ],
-  "gitSync": {
-    "pendingCommits": 0,
-    "lastCheckedUtc": "2026-10-31T07:00:21Z"
-  },
-  "generatedUtc": "2026-10-31T07:01:11.0100812Z",
-  "sourceSha256": "F4DB857C3E3FFE9260D047EE5FEE9511F3303C022DEB7460D8BA056FA1BF21A4",
+  "generatedUtc": "2026-10-31T12:28:10.5135279Z",
+  "sourceSha256": "4C664C3CA17851AF1835DFCBDEC13706FA61CFF4A9CE22BADA21944042913AF9",
   "staleAfterMinutes": 30
 }
