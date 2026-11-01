@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 1 張工單正在處理",
+    "現在：沒有工單在跑",
     "卡住：沒有",
     "要你做的事：有 84 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,9 +11,9 @@
   "postman": "開啟",
   "humanGatesPending": 84,
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-01 20:34",
+  "lastSuccessfulSync": "2026-11-01 20:54",
   "recentOrderStatusCounts": {
-    "完成": 4,
+    "完成": 5,
     "失敗": 2,
     "需要 Owner": 1,
     "進行中": 0,
@@ -30,13 +30,13 @@
       "weeklyRemainingPercent": 79,
       "fiveHourResetsUtc": "2026-11-01T16:04:10Z",
       "weeklyResetsUtc": "2026-11-04T06:54:30Z",
-      "capturedUtc": "2026-11-01T12:42:08Z"
+      "capturedUtc": "2026-11-01T12:57:57Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 78,
+      "fiveHourRemainingPercent": 99,
       "weeklyRemainingPercent": 83,
-      "fiveHourResetsUtc": "2026-11-01T12:40:00Z",
-      "capturedUtc": "2026-11-01T12:39:30Z"
+      "fiveHourResetsUtc": "2026-11-01T17:50:00Z",
+      "capturedUtc": "2026-11-01T12:55:39Z"
     }
   },
   "projects": [
@@ -45,7 +45,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 60
@@ -87,9 +87,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-01T12:42:21Z"
+    "lastCheckedUtc": "2026-11-01T12:57:58Z"
   },
-  "generatedUtc": "2026-11-01T12:42:45.0664330Z",
-  "sourceSha256": "CDD938DA0465F8154D875218D2522BDD357DEE1C3C0D79A7A268F816C7F0F499",
+  "generatedUtc": "2026-11-01T12:58:24.7582564Z",
+  "sourceSha256": "E480EA9053B4CEBD9267C7C6ABF369F6FF865B18212805910EB6F8AC032849BA",
   "staleAfterMinutes": 30
 }
