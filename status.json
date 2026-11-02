@@ -11,7 +11,7 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-03 06:42",
+  "lastSuccessfulSync": "2026-11-03 06:56",
   "recentOrderStatusCounts": {
     "完成": 6,
     "失敗": 0,
@@ -21,22 +21,22 @@
   },
   "agentOrderCounts": {
     "Claude Code": 329,
-    "Codex": 426,
+    "Codex": 427,
     "其他": 155
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 100,
-      "weeklyRemainingPercent": 70,
+      "fiveHourRemainingPercent": 98,
+      "weeklyRemainingPercent": 69,
       "fiveHourResetsUtc": "2026-11-03T03:17:45Z",
-      "weeklyResetsUtc": "2026-11-04T06:54:30Z",
-      "capturedUtc": "2026-11-02T22:41:37Z"
+      "weeklyResetsUtc": "2026-11-04T06:54:31Z",
+      "capturedUtc": "2026-11-02T22:57:17Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 91,
+      "fiveHourRemainingPercent": 90,
       "weeklyRemainingPercent": 52,
       "fiveHourResetsUtc": "2026-11-03T02:40:00Z",
-      "capturedUtc": "2026-11-02T22:40:43Z"
+      "capturedUtc": "2026-11-02T22:57:10Z"
     }
   },
   "projects": [
@@ -45,7 +45,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 68
@@ -83,24 +83,13 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
-    },
-    {
-      "category": "未分類",
-      "shade": "dark",
-      "counts": {
-        "queued": 0,
-        "working": 1,
-        "waitingReview": 0,
-        "reviewing": 0,
-        "waitingOwner": 0
-      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-02T22:42:03Z"
+    "lastCheckedUtc": "2026-11-02T22:56:26Z"
   },
-  "generatedUtc": "2026-11-02T22:42:20.8436571Z",
-  "sourceSha256": "84F64571CA68C2FAB133CB5F0AA84312EB7DD663A8580D47D10A5058ADB0DEB3",
+  "generatedUtc": "2026-11-02T22:57:31.9355485Z",
+  "sourceSha256": "648587D7417298E7A932E2376EA7EE1BBB7E174560E1BE6F39622BD4B5052C2B",
   "staleAfterMinutes": 30
 }
