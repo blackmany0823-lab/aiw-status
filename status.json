@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 2 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 49 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -15,13 +15,13 @@
   "recentOrderStatusCounts": {
     "完成": 3,
     "失敗": 0,
-    "需要 Owner": 2,
+    "需要 Owner": 1,
     "進行中": 0,
-    "結果不明": 3
+    "結果不明": 2
   },
   "agentOrderCounts": {
-    "Claude Code": 339,
-    "Codex": 444,
+    "Claude Code": 340,
+    "Codex": 445,
     "其他": 156
   },
   "usage": {
@@ -29,14 +29,14 @@
       "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 64,
       "fiveHourResetsUtc": "2026-11-03T18:18:09Z",
-      "weeklyResetsUtc": "2026-11-04T06:54:31Z",
-      "capturedUtc": "2026-11-03T13:32:24Z"
+      "weeklyResetsUtc": "2026-11-04T06:54:30Z",
+      "capturedUtc": "2026-11-03T13:33:25Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 95,
+      "fiveHourRemainingPercent": 94,
       "weeklyRemainingPercent": 39,
       "fiveHourResetsUtc": "2026-11-03T17:40:00Z",
-      "capturedUtc": "2026-11-03T13:30:09Z"
+      "capturedUtc": "2026-11-03T13:33:45Z"
     }
   },
   "projects": [
@@ -83,13 +83,35 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 2,
     "lastCheckedUtc": "2026-11-03T13:32:30Z"
   },
-  "generatedUtc": "2026-11-03T13:32:54.2193583Z",
-  "sourceSha256": "3B2077FA7BA95650C4C17D46491EDDF5B9B29D1C9BECCAC0AE5567B4F2D19A82",
+  "generatedUtc": "2026-11-03T13:33:54.9112154Z",
+  "sourceSha256": "BAA3372D54850C500AFEE8ACB726D557A6C3F84A1183170B339607380852715E",
   "staleAfterMinutes": 30
 }
