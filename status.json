@@ -11,33 +11,33 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-06 15:29",
+  "lastSuccessfulSync": "2026-11-06 15:38",
   "recentOrderStatusCounts": {
-    "完成": 1,
-    "失敗": 1,
+    "完成": 2,
+    "失敗": 0,
     "需要 Owner": 4,
     "進行中": 0,
     "結果不明": 1
   },
   "agentOrderCounts": {
-    "Claude Code": 371,
+    "Claude Code": 372,
     "Codex": 496,
-    "其他": 158
+    "其他": 159
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 98,
-      "weeklyRemainingPercent": 94,
+      "fiveHourRemainingPercent": 97,
+      "weeklyRemainingPercent": 93,
       "fiveHourResetsUtc": "2026-11-06T11:19:24Z",
       "weeklyResetsUtc": "2026-11-11T07:18:33Z",
-      "capturedUtc": "2026-11-06T07:30:22Z"
+      "capturedUtc": "2026-11-06T07:37:55Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 75,
       "weeklyRemainingPercent": 96,
       "fiveHourResetsUtc": "2026-11-06T09:59:00Z",
       "weeklyResetsUtc": "2026-11-13T04:59:00Z",
-      "capturedUtc": "2026-11-06T07:26:06Z"
+      "capturedUtc": "2026-11-06T07:38:55Z"
     }
   },
   "projects": [
@@ -46,7 +46,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 83
@@ -68,7 +68,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 7
@@ -88,9 +88,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-06T07:29:52Z"
+    "lastCheckedUtc": "2026-11-06T07:38:07Z"
   },
-  "generatedUtc": "2026-11-06T07:31:11.1722972Z",
-  "sourceSha256": "DE55FCF23C1E4044CDBA7F6D303C9638433FAC49FD1417490396934D4D70748A",
+  "generatedUtc": "2026-11-06T07:39:07.4369882Z",
+  "sourceSha256": "C5F6D268ADBB88FCCDDA6290ECBD9F21B90310DD3C8E6529948124DB4A4B647A",
   "staleAfterMinutes": 30
 }
