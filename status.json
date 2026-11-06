@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 2 張工單正在處理",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 17 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,9 +11,9 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-06 19:58",
+  "lastSuccessfulSync": "2026-11-06 20:00",
   "recentOrderStatusCounts": {
-    "完成": 4,
+    "完成": 5,
     "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
@@ -21,7 +21,7 @@
   },
   "agentOrderCounts": {
     "Claude Code": 377,
-    "Codex": 502,
+    "Codex": 503,
     "其他": 160
   },
   "usage": {
@@ -30,13 +30,13 @@
       "weeklyRemainingPercent": 93,
       "fiveHourResetsUtc": "2026-11-06T16:26:24Z",
       "weeklyResetsUtc": "2026-11-11T07:18:33Z",
-      "capturedUtc": "2026-11-06T11:58:11Z"
+      "capturedUtc": "2026-11-06T12:00:20Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 71,
+      "fiveHourRemainingPercent": 70,
       "weeklyRemainingPercent": 90,
       "fiveHourResetsUtc": "2026-11-06T15:10:00Z",
-      "capturedUtc": "2026-11-06T11:58:31Z"
+      "capturedUtc": "2026-11-06T12:00:15Z"
     }
   },
   "projects": [
@@ -45,7 +45,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 83
@@ -83,13 +83,24 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-06T11:58:10Z"
+    "lastCheckedUtc": "2026-11-06T12:00:08Z"
   },
-  "generatedUtc": "2026-11-06T11:58:35.1455850Z",
-  "sourceSha256": "AEBE0300D02836BD7F930B9FFD4163B80DBA51EC6DB6127CCBA561AA1E0169D2",
+  "generatedUtc": "2026-11-06T12:00:39.1773003Z",
+  "sourceSha256": "1E3B4D80A221240B9F43C0FE2250B03D13755FF3F50C4034ABDE0D0FE262D7BF",
   "staleAfterMinutes": 30
 }
