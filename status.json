@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 2 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 17 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -13,15 +13,15 @@
   "githubSync": "失敗",
   "lastSuccessfulSync": "UNKNOWN",
   "recentOrderStatusCounts": {
-    "完成": 6,
+    "完成": 4,
     "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 1
   },
   "agentOrderCounts": {
-    "Claude Code": 400,
-    "Codex": 537,
+    "Claude Code": 401,
+    "Codex": 538,
     "其他": 181
   },
   "usage": {
@@ -30,14 +30,12 @@
       "weeklyRemainingPercent": 85,
       "fiveHourResetsUtc": "2026-11-08T08:45:36Z",
       "weeklyResetsUtc": "2026-11-11T07:18:33Z",
-      "capturedUtc": "2026-11-08T08:19:51Z"
+      "capturedUtc": "2026-11-08T08:20:53Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 77,
-      "weeklyRemainingPercent": 66,
-      "fiveHourResetsUtc": "2026-11-08T09:59:00Z",
-      "weeklyResetsUtc": "2026-11-13T04:59:00Z",
-      "capturedUtc": "2026-11-08T08:17:36Z"
+      "fiveHourRemainingPercent": 72,
+      "weeklyRemainingPercent": 65,
+      "capturedUtc": "2026-11-08T08:21:09Z"
     }
   },
   "projects": [
@@ -84,13 +82,35 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
+    },
+    {
+      "category": "維護",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
+    },
+    {
+      "category": "維護",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-08T08:19:30Z"
   },
-  "generatedUtc": "2026-11-08T08:20:21.9449224Z",
-  "sourceSha256": "8ACD996694E4EAA8E39EA1E71B5518302738B01988BB78FF1F4482ED9528B1B7",
+  "generatedUtc": "2026-11-08T08:21:36.3061918Z",
+  "sourceSha256": "8C9A73FB4BA358F758132CEDADE14AB95D8E3E5FCB04586B23D8BE4402F3DE21",
   "staleAfterMinutes": 30
 }
