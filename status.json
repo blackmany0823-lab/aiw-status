@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 17 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -13,14 +13,14 @@
   "githubSync": "失敗",
   "lastSuccessfulSync": "UNKNOWN",
   "recentOrderStatusCounts": {
-    "完成": 7,
+    "完成": 6,
     "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 404,
+    "Claude Code": 405,
     "Codex": 543,
     "其他": 185
   },
@@ -30,7 +30,7 @@
       "weeklyRemainingPercent": 84,
       "fiveHourResetsUtc": "2026-11-08T18:45:44Z",
       "weeklyResetsUtc": "2026-11-11T07:18:33Z",
-      "capturedUtc": "2026-11-08T14:07:57Z"
+      "capturedUtc": "2026-11-08T14:09:00Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 81,
@@ -57,7 +57,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 6
@@ -90,7 +90,7 @@
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-08T14:03:32Z"
   },
-  "generatedUtc": "2026-11-08T14:08:11.0393102Z",
-  "sourceSha256": "C5238C38CEFB45D5A64D8EEB8758AE301752F2B069D39FA22B3A6A25D91BDFD0",
+  "generatedUtc": "2026-11-08T14:09:14.4243850Z",
+  "sourceSha256": "BBB756516CA97946AF8435FCA2252F5B15426469CF1C6B7F1797C63375C80AA7",
   "staleAfterMinutes": 30
 }
