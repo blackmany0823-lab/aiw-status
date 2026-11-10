@@ -11,7 +11,7 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-10 16:32",
+  "lastSuccessfulSync": "2026-11-10 16:34",
   "recentOrderStatusCounts": {
     "完成": 7,
     "失敗": 0,
@@ -20,7 +20,7 @@
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 432,
+    "Claude Code": 433,
     "Codex": 571,
     "其他": 199
   },
@@ -30,13 +30,13 @@
       "weeklyRemainingPercent": 79,
       "fiveHourResetsUtc": "2026-11-10T10:46:55Z",
       "weeklyResetsUtc": "2026-11-11T07:18:33Z",
-      "capturedUtc": "2026-11-10T08:32:46Z"
+      "capturedUtc": "2026-11-10T08:34:48Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 88,
       "weeklyRemainingPercent": 44,
       "fiveHourResetsUtc": "2026-11-10T11:50:00Z",
-      "capturedUtc": "2026-11-10T08:32:17Z"
+      "capturedUtc": "2026-11-10T08:32:51Z"
     }
   },
   "projects": [
@@ -45,7 +45,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 87
@@ -56,7 +56,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 10
@@ -86,10 +86,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 1,
-    "lastCheckedUtc": "2026-11-10T08:32:06Z"
+    "pendingCommits": 0,
+    "lastCheckedUtc": "2026-11-10T08:34:33Z"
   },
-  "generatedUtc": "2026-11-10T08:32:48.5474926Z",
-  "sourceSha256": "F14B3B95CDD555BF9AA71647BD96689C8F258A652FA9715176C4AA924F5446C7",
+  "generatedUtc": "2026-11-10T08:34:58.3189047Z",
+  "sourceSha256": "C91B5A79325C1AF67E4ACB302892A9DC58B6665797D327D4E200CB91E4F81A97",
   "staleAfterMinutes": 30
 }
