@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 2 張工單正在處理",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 17 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,11 +11,11 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-12 23:46",
+  "lastSuccessfulSync": "2026-11-12 23:48",
   "recentOrderStatusCounts": {
     "完成": 4,
     "失敗": 1,
-    "需要 Owner": 0,
+    "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 1
   },
@@ -26,17 +26,17 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 79,
+      "fiveHourRemainingPercent": 78,
       "weeklyRemainingPercent": 77,
       "fiveHourResetsUtc": "2026-11-12T17:55:50Z",
       "weeklyResetsUtc": "2026-11-18T07:27:18Z",
-      "capturedUtc": "2026-11-12T15:46:17Z"
+      "capturedUtc": "2026-11-12T15:48:23Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 22,
       "weeklyRemainingPercent": 6,
       "fiveHourResetsUtc": "2026-11-12T16:10:00Z",
-      "capturedUtc": "2026-11-12T15:44:17Z"
+      "capturedUtc": "2026-11-12T15:48:59Z"
     }
   },
   "projects": [
@@ -48,7 +48,7 @@
         "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 95
+        "waitingOwner": 96
       }
     },
     {
@@ -94,24 +94,13 @@
         "reviewing": 0,
         "waitingOwner": 0
       }
-    },
-    {
-      "category": "未分類",
-      "shade": "light",
-      "counts": {
-        "queued": 0,
-        "working": 1,
-        "waitingReview": 0,
-        "reviewing": 0,
-        "waitingOwner": 0
-      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-12T15:46:30Z"
+    "lastCheckedUtc": "2026-11-12T15:48:53Z"
   },
-  "generatedUtc": "2026-11-12T15:46:49.9481624Z",
-  "sourceSha256": "D45B3347A3C92C874E9E48388A73E7856C3A9DA4D937F53C0F2357856E0A7F82",
+  "generatedUtc": "2026-11-12T15:49:22.0734444Z",
+  "sourceSha256": "A76F6BE22C5F3FA9E6756EB5B9CE8B339E15F6AD3F3E7CDF9FFBE9CDACFA184B",
   "staleAfterMinutes": 30
 }
