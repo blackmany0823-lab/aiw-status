@@ -11,31 +11,31 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-14 00:36",
+  "lastSuccessfulSync": "2026-11-14 00:40",
   "recentOrderStatusCounts": {
-    "完成": 5,
+    "完成": 4,
     "失敗": 0,
-    "需要 Owner": 1,
+    "需要 Owner": 2,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
     "Claude Code": 482,
-    "Codex": 641,
+    "Codex": 642,
     "其他": 231
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 50,
+      "fiveHourRemainingPercent": 49,
       "weeklyRemainingPercent": 63,
-      "fiveHourResetsUtc": "2026-11-13T18:56:13Z",
+      "fiveHourResetsUtc": "2026-11-13T18:56:14Z",
       "weeklyResetsUtc": "2026-11-18T07:27:18Z",
-      "capturedUtc": "2026-11-13T16:35:40Z"
+      "capturedUtc": "2026-11-13T16:39:53Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 88,
+      "fiveHourRemainingPercent": 87,
       "weeklyRemainingPercent": 77,
-      "capturedUtc": "2026-11-13T16:31:42Z"
+      "capturedUtc": "2026-11-13T16:37:36Z"
     }
   },
   "projects": [
@@ -47,7 +47,7 @@
         "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
-        "waitingOwner": 101
+        "waitingOwner": 102
       }
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "category": "未分類",
-      "shade": "dark",
+      "shade": "light",
       "counts": {
         "queued": 0,
         "working": 1,
@@ -96,7 +96,7 @@
     },
     {
       "category": "未分類",
-      "shade": "light",
+      "shade": "dark",
       "counts": {
         "queued": 0,
         "working": 1,
@@ -108,9 +108,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-13T16:36:13Z"
+    "lastCheckedUtc": "2026-11-13T16:40:07Z"
   },
-  "generatedUtc": "2026-11-13T16:36:39.5412024Z",
-  "sourceSha256": "3459E342044FE01E58A230D2C4F9E96AE5DBA1651A2931AB05D35E4CB03A2ED7",
+  "generatedUtc": "2026-11-13T16:40:34.1391599Z",
+  "sourceSha256": "63E91F54B96779E816099D97640FD481711FE5DD69B729F0F2AACD0A45538A8B",
   "staleAfterMinutes": 30
 }
