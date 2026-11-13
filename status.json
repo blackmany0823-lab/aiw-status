@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 2 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 17 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,17 +11,17 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-13 19:45",
+  "lastSuccessfulSync": "2026-11-13 19:49",
   "recentOrderStatusCounts": {
     "完成": 5,
     "失敗": 0,
-    "需要 Owner": 2,
+    "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 1
   },
   "agentOrderCounts": {
-    "Claude Code": 479,
-    "Codex": 637,
+    "Claude Code": 480,
+    "Codex": 638,
     "其他": 229
   },
   "usage": {
@@ -30,12 +30,12 @@
       "weeklyRemainingPercent": 71,
       "fiveHourResetsUtc": "2026-11-13T13:56:08Z",
       "weeklyResetsUtc": "2026-11-18T07:27:18Z",
-      "capturedUtc": "2026-11-13T11:45:47Z"
+      "capturedUtc": "2026-11-13T11:48:59Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 64,
-      "weeklyRemainingPercent": 82,
-      "capturedUtc": "2026-11-13T11:46:04Z"
+      "fiveHourRemainingPercent": 62,
+      "weeklyRemainingPercent": 81,
+      "capturedUtc": "2026-11-13T11:49:41Z"
     }
   },
   "projects": [
@@ -82,13 +82,35 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-13T11:45:57Z"
+    "lastCheckedUtc": "2026-11-13T11:49:29Z"
   },
-  "generatedUtc": "2026-11-13T11:46:23.8350133Z",
-  "sourceSha256": "67C2D1EDE312860E5F9F70AB365E079ED554DB0092DEB1EE9618A07A3E9F1155",
+  "generatedUtc": "2026-11-13T11:49:55.9911645Z",
+  "sourceSha256": "F04914EE1CEC5A26083CCE699B557D433E9BA8AAEEB15885A05237CBC41F3B24",
   "staleAfterMinutes": 30
 }
