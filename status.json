@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 2 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 18 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,17 +11,17 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-14 03:50",
+  "lastSuccessfulSync": "2026-11-14 03:53",
   "recentOrderStatusCounts": {
     "完成": 4,
     "失敗": 0,
-    "需要 Owner": 3,
+    "需要 Owner": 1,
     "進行中": 0,
     "結果不明": 1
   },
   "agentOrderCounts": {
-    "Claude Code": 484,
-    "Codex": 644,
+    "Claude Code": 485,
+    "Codex": 645,
     "其他": 231
   },
   "usage": {
@@ -30,14 +30,12 @@
       "weeklyRemainingPercent": 63,
       "fiveHourResetsUtc": "2026-11-13T23:56:18Z",
       "weeklyResetsUtc": "2026-11-18T07:27:18Z",
-      "capturedUtc": "2026-11-13T19:50:37Z"
+      "capturedUtc": "2026-11-13T19:53:49Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 79,
-      "weeklyRemainingPercent": 76,
-      "fiveHourResetsUtc": "2026-11-13T19:59:00Z",
-      "weeklyResetsUtc": "2026-11-20T04:59:00Z",
-      "capturedUtc": "2026-11-13T19:48:18Z"
+      "fiveHourRemainingPercent": 75,
+      "weeklyRemainingPercent": 75,
+      "capturedUtc": "2026-11-13T19:54:06Z"
     }
   },
   "projects": [
@@ -84,13 +82,35 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-13T19:50:25Z"
+    "lastCheckedUtc": "2026-11-13T19:53:47Z"
   },
-  "generatedUtc": "2026-11-13T19:50:47.4069919Z",
-  "sourceSha256": "2AEBCE2A8A681F6BF260AF8A1196AE9A72104EFD6E9DF8465ED57329BF60DE67",
+  "generatedUtc": "2026-11-13T19:54:21.9095886Z",
+  "sourceSha256": "D58F54A1CA2E3632A25AF79B68E87E0B27411D4C094E23A35010551C28611468",
   "staleAfterMinutes": 30
 }
