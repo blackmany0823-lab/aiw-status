@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 2 張工單正在處理",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：有 8 件等你決定（請看總覽頁的人工關卡）"
   ],
@@ -11,9 +11,9 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-14 23:56",
+  "lastSuccessfulSync": "2026-11-15 00:01",
   "recentOrderStatusCounts": {
-    "完成": 5,
+    "完成": 6,
     "失敗": 0,
     "需要 Owner": 1,
     "進行中": 0,
@@ -26,11 +26,11 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 100,
+      "fiveHourRemainingPercent": 99,
       "weeklyRemainingPercent": 58,
       "fiveHourResetsUtc": "2026-11-14T19:59:10Z",
       "weeklyResetsUtc": "2026-11-18T07:27:18Z",
-      "capturedUtc": "2026-11-14T15:56:29Z"
+      "capturedUtc": "2026-11-14T16:00:42Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 59,
@@ -45,7 +45,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 109
@@ -83,35 +83,13 @@
         "reviewing": 0,
         "waitingOwner": 16
       }
-    },
-    {
-      "category": "未分類",
-      "shade": "dark",
-      "counts": {
-        "queued": 0,
-        "working": 1,
-        "waitingReview": 0,
-        "reviewing": 0,
-        "waitingOwner": 0
-      }
-    },
-    {
-      "category": "未分類",
-      "shade": "light",
-      "counts": {
-        "queued": 0,
-        "working": 1,
-        "waitingReview": 0,
-        "reviewing": 0,
-        "waitingOwner": 0
-      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-14T15:56:14Z"
+    "lastCheckedUtc": "2026-11-14T16:01:03Z"
   },
-  "generatedUtc": "2026-11-14T15:56:49.0709366Z",
-  "sourceSha256": "56C1FBE463A06CA418F53ECF85BDB41C56696A1DBFF2EEB7C96906F57FB20B69",
+  "generatedUtc": "2026-11-14T16:01:27.3190586Z",
+  "sourceSha256": "1B36001FB42FF2DC98BD9660AE4C2059E79B6EE6A93EF7AE58F8D0BA416CCAD4",
   "staleAfterMinutes": 30
 }
