@@ -25,18 +25,11 @@
     "其他": 232
   },
   "usage": {
-    "openai": {
-      "fiveHourRemainingPercent": 90,
-      "weeklyRemainingPercent": 58,
-      "fiveHourResetsUtc": "2026-11-14T14:56:53Z",
-      "weeklyResetsUtc": "2026-11-18T07:27:18Z",
-      "capturedUtc": "2026-11-14T14:33:54Z"
-    },
     "claude": {
       "fiveHourRemainingPercent": 75,
       "weeklyRemainingPercent": 41,
       "fiveHourResetsUtc": "2026-11-14T16:50:00Z",
-      "capturedUtc": "2026-11-14T14:32:17Z"
+      "capturedUtc": "2026-11-14T14:38:53Z"
     }
   },
   "projects": [
@@ -78,7 +71,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 16
@@ -87,9 +80,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-14T14:34:24Z"
+    "lastCheckedUtc": "2026-11-14T14:38:49Z"
   },
-  "generatedUtc": "2026-11-14T14:34:48.0556021Z",
+  "generatedUtc": "2026-11-14T14:44:18.0737149Z",
   "sourceSha256": "F4C25E9CEECDA9D921C28E9014AD6F8044AA53BF3BC272DFA531F18069352D35",
   "staleAfterMinutes": 30
 }
