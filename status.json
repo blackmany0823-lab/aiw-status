@@ -11,7 +11,7 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-15 20:25",
+  "lastSuccessfulSync": "2026-11-15 20:30",
   "recentOrderStatusCounts": {
     "完成": 7,
     "失敗": 0,
@@ -26,17 +26,18 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 98,
+      "fiveHourRemainingPercent": 97,
       "weeklyRemainingPercent": 56,
       "fiveHourResetsUtc": "2026-11-15T15:59:26Z",
       "weeklyResetsUtc": "2026-11-18T07:27:18Z",
-      "capturedUtc": "2026-11-15T12:25:36Z"
+      "capturedUtc": "2026-11-15T12:29:52Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 60,
-      "weeklyRemainingPercent": 12,
-      "fiveHourResetsUtc": "2026-11-15T12:50:00Z",
-      "capturedUtc": "2026-11-15T12:22:08Z"
+      "fiveHourRemainingPercent": 57,
+      "weeklyRemainingPercent": 11,
+      "fiveHourResetsUtc": "2026-11-15T12:49:00Z",
+      "weeklyResetsUtc": "2026-11-20T04:59:00Z",
+      "capturedUtc": "2026-11-15T12:30:19Z"
     }
   },
   "projects": [
@@ -98,9 +99,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-15T12:25:20Z"
+    "lastCheckedUtc": "2026-11-15T12:30:14Z"
   },
-  "generatedUtc": "2026-11-15T12:25:52.1774665Z",
-  "sourceSha256": "4E079785A2246C9A923CC549002FA3504A54FCD8D51B5294FF0FD86B8AACCF64",
+  "generatedUtc": "2026-11-15T12:30:54.1778799Z",
+  "sourceSha256": "AB917B8A79ACD4D4437BCEA35ACA3F9E39F432A98DED26C9CD72F86DB2B7CE6A",
   "staleAfterMinutes": 30
 }
