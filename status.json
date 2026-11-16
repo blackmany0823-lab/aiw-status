@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 1 張工單正在處理",
+    "現在：有 2 張工單正在處理",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -11,9 +11,9 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-16 13:50",
+  "lastSuccessfulSync": "2026-11-16 13:55",
   "recentOrderStatusCounts": {
-    "完成": 6,
+    "完成": 5,
     "失敗": 0,
     "需要 Owner": 1,
     "進行中": 0,
@@ -21,8 +21,8 @@
   },
   "agentOrderCounts": {
     "Claude Code": 529,
-    "Codex": 702,
-    "其他": 262
+    "Codex": 703,
+    "其他": 263
   },
   "usage": {
     "openai": {
@@ -30,13 +30,13 @@
       "weeklyRemainingPercent": 52,
       "fiveHourResetsUtc": "2026-11-16T06:59:43Z",
       "weeklyResetsUtc": "2026-11-18T07:27:18Z",
-      "capturedUtc": "2026-11-16T05:50:13Z"
+      "capturedUtc": "2026-11-16T05:55:27Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 90,
       "weeklyRemainingPercent": 32,
       "fiveHourResetsUtc": "2026-11-16T09:50:00Z",
-      "capturedUtc": "2026-11-16T05:50:40Z"
+      "capturedUtc": "2026-11-16T05:51:35Z"
     }
   },
   "projects": [
@@ -67,7 +67,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 8
@@ -78,7 +78,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 18
@@ -87,9 +87,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-16T05:50:35Z"
+    "lastCheckedUtc": "2026-11-16T05:55:30Z"
   },
-  "generatedUtc": "2026-11-16T05:51:09.3094968Z",
-  "sourceSha256": "37598FF924350F6F1BB62A1CF6A55FFAB43A1C1CBEB823DA8C754F61F7E738A6",
+  "generatedUtc": "2026-11-16T05:55:56.7872221Z",
+  "sourceSha256": "87EBC6BA8A3FD94CE1B3BD4AD04089E3EC857CDD72264133A15BE328E15D7337",
   "staleAfterMinutes": 30
 }
