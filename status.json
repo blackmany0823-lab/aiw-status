@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 2 張工單正在處理",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -13,7 +13,7 @@
   "githubSync": "UNKNOWN",
   "lastSuccessfulSync": "UNKNOWN",
   "recentOrderStatusCounts": {
-    "完成": 4,
+    "完成": 5,
     "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
@@ -21,26 +21,26 @@
   },
   "agentOrderCounts": {
     "Claude Code": 552,
-    "Codex": 744,
+    "Codex": 745,
     "其他": 298
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 53,
+      "fiveHourRemainingPercent": 52,
       "weeklyRemainingPercent": 85,
       "fiveHourResetsUtc": "2026-11-17T17:28:14Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-17T13:21:43Z"
+      "capturedUtc": "2026-11-17T13:29:10Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 66,
-      "weeklyRemainingPercent": 95,
-      "capturedUtc": "2026-11-17T13:20:51Z"
+      "fiveHourRemainingPercent": 56,
+      "weeklyRemainingPercent": 94,
+      "capturedUtc": "2026-11-17T13:28:42Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 10.313190833333337,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-17T13:20:43Z"
+      "capturedUtc": "2026-11-17T13:25:45Z"
     }
   },
   "projects": [
@@ -60,7 +60,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 14
@@ -90,10 +90,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 21,
-    "lastCheckedUtc": "2026-11-17T13:21:59Z"
+    "pendingCommits": 23,
+    "lastCheckedUtc": "2026-11-17T13:28:37Z"
   },
-  "generatedUtc": "2026-11-17T13:22:39.4533000Z",
-  "sourceSha256": "6E5480143849795DA2107CEDE27225C108943F2550042FA5C0A4C9E043ACB0BA",
+  "generatedUtc": "2026-11-17T13:29:11.8018836Z",
+  "sourceSha256": "5077F8D36218915B4EFD4DE5552562FFC6D51F8840E5A2D380ED5AEEAFEB9602",
   "staleAfterMinutes": 30
 }
