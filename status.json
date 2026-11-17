@@ -21,16 +21,16 @@
   },
   "agentOrderCounts": {
     "Claude Code": 555,
-    "Codex": 748,
+    "Codex": 749,
     "其他": 303
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 46,
+      "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 84,
-      "fiveHourResetsUtc": "2026-11-17T17:28:14Z",
+      "fiveHourResetsUtc": "2026-11-17T22:28:18Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-17T17:28:00Z"
+      "capturedUtc": "2026-11-17T17:29:04Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 88,
@@ -93,7 +93,7 @@
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-17T17:26:31Z"
   },
-  "generatedUtc": "2026-11-17T17:28:56.2751407Z",
-  "sourceSha256": "D36721508230C51ADFF8824D5E39E5B043A1C698A1CE012696D586BC5BB38E04",
+  "generatedUtc": "2026-11-17T17:30:00.8058138Z",
+  "sourceSha256": "31586B8366B3BD130126DBB7D52BE91C85F68D49FAB821FC6515A4211FD1A1B9",
   "staleAfterMinutes": 30
 }
