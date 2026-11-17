@@ -14,15 +14,15 @@
   "lastSuccessfulSync": "2026-11-18 02:19",
   "recentOrderStatusCounts": {
     "完成": 5,
-    "失敗": 1,
+    "失敗": 0,
     "需要 Owner": 0,
     "進行中": 0,
-    "結果不明": 1
+    "結果不明": 2
   },
   "agentOrderCounts": {
     "Claude Code": 556,
     "Codex": 755,
-    "其他": 306
+    "其他": 307
   },
   "usage": {
     "openai": {
@@ -30,7 +30,7 @@
       "weeklyRemainingPercent": 84,
       "fiveHourResetsUtc": "2026-11-17T22:28:18Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-17T18:20:27Z"
+      "capturedUtc": "2026-11-17T18:21:29Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 76,
@@ -93,7 +93,7 @@
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-17T18:19:32Z"
   },
-  "generatedUtc": "2026-11-17T18:21:11.8102951Z",
-  "sourceSha256": "66E4EF0B3D6FF4684C49EA406F230ACE23902D2A68C1C904C905933D5E912851",
+  "generatedUtc": "2026-11-17T18:22:22.4753355Z",
+  "sourceSha256": "66A04B9E4186F915AC1AA22C23400B38348FF71CD044285BD4330605C21CEDFC",
   "staleAfterMinutes": 30
 }
