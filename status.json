@@ -3,7 +3,7 @@
   "parseStatus": "OK",
   "plainLines": [
     "現在：郵差關閉",
-    "卡住：手機網頁超過 30 分鐘沒更新。",
+    "卡住：沒有",
     "要你做的事：沒有"
   ],
   "programState": "在跑",
@@ -25,16 +25,24 @@
     "其他": 284
   },
   "usage": {
+    "openai": {
+      "fiveHourRemainingPercent": 41,
+      "weeklyRemainingPercent": 38,
+      "fiveHourResetsUtc": "2026-11-17T02:59:58Z",
+      "weeklyResetsUtc": "2026-11-18T07:27:18Z",
+      "capturedUtc": "2026-11-17T01:52:35Z"
+    },
     "claude": {
       "fiveHourRemainingPercent": 78,
       "weeklyRemainingPercent": 15,
       "fiveHourResetsUtc": "2026-11-17T02:19:00Z",
-      "capturedUtc": "2026-11-17T01:43:00Z"
+      "weeklyResetsUtc": "2026-11-20T04:59:00Z",
+      "capturedUtc": "2026-11-17T01:51:48Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 24.02140150000001,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-17T01:51:34Z"
+      "capturedUtc": "2026-11-17T01:51:36Z"
     }
   },
   "projects": [
@@ -84,10 +92,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 25,
+    "pendingCommits": 26,
     "lastCheckedUtc": "2026-11-17T01:42:53Z"
   },
-  "generatedUtc": "2026-11-17T01:51:37.4263906Z",
-  "sourceSha256": "9184E0F5DADF1C1BC2CED1C9AEF63AE22D6FD8C3FF7C417AC8620167308318B2",
+  "generatedUtc": "2026-11-17T01:52:48.2275977Z",
+  "sourceSha256": "B341A89C7D5AB1DC0AEBF3B27FE4037D1A5C75CE0AF950832E1760BAE991D613",
   "staleAfterMinutes": 30
 }
