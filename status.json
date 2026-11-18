@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 1 張工單正在處理",
+    "現在：沒有工單在跑",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -14,7 +14,7 @@
   "lastSuccessfulSync": "2026-11-18 18:30",
   "recentOrderStatusCounts": {
     "完成": 6,
-    "失敗": 1,
+    "失敗": 2,
     "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
@@ -30,7 +30,7 @@
       "weeklyRemainingPercent": 80,
       "fiveHourResetsUtc": "2026-11-18T13:28:36Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-18T10:32:35Z"
+      "capturedUtc": "2026-11-18T10:33:38Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 69,
@@ -61,7 +61,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 14
@@ -94,7 +94,7 @@
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-18T10:30:37Z"
   },
-  "generatedUtc": "2026-11-18T10:32:43.3545807Z",
-  "sourceSha256": "FD6BF91545D1BADF9B1969C40CEFAD46884CCEDF0DD061E7AA62CBA82ED2E6C4",
+  "generatedUtc": "2026-11-18T10:33:57.4686199Z",
+  "sourceSha256": "4F73ACFD89C754675C3665651D55BCD54DABD832D4AD3B68308CFBF0EF705FF3",
   "staleAfterMinutes": 30
 }
