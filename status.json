@@ -20,7 +20,7 @@
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 590,
+    "Claude Code": 591,
     "Codex": 785,
     "其他": 314
   },
@@ -30,7 +30,7 @@
       "weeklyRemainingPercent": 78,
       "fiveHourResetsUtc": "2026-11-18T18:28:37Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-18T14:18:59Z"
+      "capturedUtc": "2026-11-18T14:20:01Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 81,
@@ -51,7 +51,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 113
@@ -73,7 +73,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 8
@@ -106,7 +106,7 @@
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-18T14:16:37Z"
   },
-  "generatedUtc": "2026-11-18T14:19:15.6092480Z",
-  "sourceSha256": "6101E068AA5A206887F4AD8851E2355E73B9E56C99B1C3F0AA4F960D93223C15",
+  "generatedUtc": "2026-11-18T14:20:23.9973880Z",
+  "sourceSha256": "5BE0222CFBDA18F1CE35FDA9260608527F5C31B4BA348F26382B081BD3D0A12C",
   "staleAfterMinutes": 30
 }
