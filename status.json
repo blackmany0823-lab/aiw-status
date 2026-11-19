@@ -11,17 +11,17 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-19 17:20",
+  "lastSuccessfulSync": "2026-11-19 17:25",
   "recentOrderStatusCounts": {
-    "完成": 4,
+    "完成": 5,
     "失敗": 2,
     "需要 Owner": 0,
     "進行中": 0,
-    "結果不明": 1
+    "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 636,
-    "Codex": 816,
+    "Claude Code": 637,
+    "Codex": 817,
     "其他": 323
   },
   "usage": {
@@ -30,18 +30,18 @@
       "weeklyRemainingPercent": 75,
       "fiveHourResetsUtc": "2026-11-19T09:28:54Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-19T09:23:57Z"
+      "capturedUtc": "2026-11-19T09:25:02Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 72,
-      "weeklyRemainingPercent": 29,
+      "fiveHourRemainingPercent": 67,
+      "weeklyRemainingPercent": 28,
       "fiveHourResetsUtc": "2026-11-19T13:20:00Z",
-      "capturedUtc": "2026-11-19T09:22:14Z"
+      "capturedUtc": "2026-11-19T09:25:42Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-19T09:19:59Z"
+      "capturedUtc": "2026-11-19T09:25:02Z"
     }
   },
   "projects": [
@@ -50,7 +50,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 113
@@ -88,13 +88,24 @@
         "reviewing": 0,
         "waitingOwner": 20
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-19T09:20:32Z"
+    "lastCheckedUtc": "2026-11-19T09:25:33Z"
   },
-  "generatedUtc": "2026-11-19T09:24:41.7696361Z",
-  "sourceSha256": "D146D29057B8F5AEFF66DD69B0A0BE673DE08855361AD1CB233EDA8E61B52023",
+  "generatedUtc": "2026-11-19T09:25:49.5313180Z",
+  "sourceSha256": "3239338866850C145DE1B86B7896C093E5B6D008AB9BAD6911FC4FA020FFF696",
   "staleAfterMinutes": 30
 }
