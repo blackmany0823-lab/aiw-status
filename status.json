@@ -13,14 +13,14 @@
   "githubSync": "成功",
   "lastSuccessfulSync": "2026-11-19 13:24",
   "recentOrderStatusCounts": {
-    "完成": 6,
-    "失敗": 0,
+    "完成": 5,
+    "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 625,
+    "Claude Code": 626,
     "Codex": 808,
     "其他": 323
   },
@@ -30,7 +30,7 @@
       "weeklyRemainingPercent": 75,
       "fiveHourResetsUtc": "2026-11-19T09:28:54Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-19T05:24:29Z"
+      "capturedUtc": "2026-11-19T05:25:34Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 62,
@@ -113,10 +113,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
+    "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-19T05:24:31Z"
   },
-  "generatedUtc": "2026-11-19T05:25:03.7123297Z",
-  "sourceSha256": "8928ECE72382761A32726514BF993D1AF1E6FC094C60AB1446EDDFAA9C07B87D",
+  "generatedUtc": "2026-11-19T05:26:12.1283255Z",
+  "sourceSha256": "F028435CF8DBDC2E5E8AC2496C800E1709AB7340A36C2FC6EC4FEC6050EAEEF6",
   "staleAfterMinutes": 30
 }
