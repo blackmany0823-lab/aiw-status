@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 2 張工單正在處理",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -13,15 +13,15 @@
   "githubSync": "成功",
   "lastSuccessfulSync": "2026-11-19 19:21",
   "recentOrderStatusCounts": {
-    "完成": 7,
+    "完成": 5,
     "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 643,
-    "Codex": 822,
+    "Claude Code": 644,
+    "Codex": 823,
     "其他": 323
   },
   "usage": {
@@ -30,7 +30,7 @@
       "weeklyRemainingPercent": 74,
       "fiveHourResetsUtc": "2026-11-19T14:53:03Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-19T11:23:39Z"
+      "capturedUtc": "2026-11-19T11:24:43Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 30,
@@ -88,13 +88,35 @@
         "reviewing": 0,
         "waitingOwner": 20
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-19T11:21:32Z"
   },
-  "generatedUtc": "2026-11-19T11:24:08.9585918Z",
-  "sourceSha256": "7BAE311768B7A409017E176CCDF2169F8850C50125D95FDE566D146BB0F9DCAD",
+  "generatedUtc": "2026-11-19T11:25:10.9803914Z",
+  "sourceSha256": "6E2BCB2D1BD6216959C71ACE81337E1D063DAF9B88C6F98183C29DFC929AFDEB",
   "staleAfterMinutes": 30
 }
