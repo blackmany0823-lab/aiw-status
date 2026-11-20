@@ -21,7 +21,7 @@
   },
   "agentOrderCounts": {
     "Claude Code": 657,
-    "Codex": 834,
+    "Codex": 835,
     "其他": 323
   },
   "usage": {
@@ -30,13 +30,13 @@
       "weeklyRemainingPercent": 73,
       "fiveHourResetsUtc": "2026-11-20T07:00:06Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-20T02:12:20Z"
+      "capturedUtc": "2026-11-20T02:14:27Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 68,
       "weeklyRemainingPercent": 6,
       "fiveHourResetsUtc": "2026-11-20T04:20:00Z",
-      "capturedUtc": "2026-11-20T02:11:51Z"
+      "capturedUtc": "2026-11-20T02:12:50Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
@@ -91,10 +91,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
+    "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-20T02:12:35Z"
   },
-  "generatedUtc": "2026-11-20T02:12:47.5775059Z",
-  "sourceSha256": "3765DEFC7C7D88FBC278BBB48060F75E947EB7359761706635EDB2E1603E00A6",
+  "generatedUtc": "2026-11-20T02:14:33.3351212Z",
+  "sourceSha256": "6E9CF9E2873AF7CD84949ACC7141785A409A75C244CF1715F0278618DC3E8AA6",
   "staleAfterMinutes": 30
 }
