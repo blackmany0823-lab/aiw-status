@@ -20,7 +20,7 @@
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 664,
+    "Claude Code": 665,
     "Codex": 845,
     "其他": 323
   },
@@ -30,18 +30,18 @@
       "weeklyRemainingPercent": 73,
       "fiveHourResetsUtc": "2026-11-20T07:00:06Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-20T06:22:10Z"
+      "capturedUtc": "2026-11-20T06:23:13Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 73,
+      "fiveHourRemainingPercent": 70,
       "weeklyRemainingPercent": 96,
       "fiveHourResetsUtc": "2026-11-20T09:20:00Z",
-      "capturedUtc": "2026-11-20T06:17:47Z"
+      "capturedUtc": "2026-11-20T06:23:13Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-20T06:17:42Z"
+      "capturedUtc": "2026-11-20T06:22:43Z"
     }
   },
   "projects": [
@@ -50,7 +50,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 113
@@ -99,13 +99,24 @@
         "reviewing": 0,
         "waitingOwner": 0
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
+    "pendingCommits": 2,
     "lastCheckedUtc": "2026-11-20T06:20:31Z"
   },
-  "generatedUtc": "2026-11-20T06:22:30.6719371Z",
-  "sourceSha256": "7B220449BC28AD7F6BA2F8AD0857421446B23C6A0C84F569BCBA4F3226F2A162",
+  "generatedUtc": "2026-11-20T06:23:33.3798333Z",
+  "sourceSha256": "FE9CB17F5751E4B641179039CE056AE661F4E6CF654B88182FF8BE1914CA4EF4",
   "staleAfterMinutes": 30
 }
