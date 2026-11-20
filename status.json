@@ -11,7 +11,7 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-20 10:18",
+  "lastSuccessfulSync": "2026-11-20 10:26",
   "recentOrderStatusCounts": {
     "完成": 3,
     "失敗": 2,
@@ -20,28 +20,28 @@
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 658,
-    "Codex": 837,
+    "Claude Code": 659,
+    "Codex": 838,
     "其他": 323
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 97,
+      "fiveHourRemainingPercent": 96,
       "weeklyRemainingPercent": 73,
       "fiveHourResetsUtc": "2026-11-20T07:00:06Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-20T02:24:50Z"
+      "capturedUtc": "2026-11-20T02:27:03Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 63,
-      "weeklyRemainingPercent": 5,
+      "fiveHourRemainingPercent": 58,
+      "weeklyRemainingPercent": 4,
       "fiveHourResetsUtc": "2026-11-20T04:20:00Z",
-      "capturedUtc": "2026-11-20T02:23:20Z"
+      "capturedUtc": "2026-11-20T02:26:44Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-20T02:21:46Z"
+      "capturedUtc": "2026-11-20T02:26:48Z"
     }
   },
   "projects": [
@@ -99,24 +99,13 @@
         "reviewing": 0,
         "waitingOwner": 0
       }
-    },
-    {
-      "category": "未分類",
-      "shade": "light",
-      "counts": {
-        "queued": 0,
-        "working": 1,
-        "waitingReview": 0,
-        "reviewing": 0,
-        "waitingOwner": 0
-      }
     }
   ],
   "gitSync": {
     "pendingCommits": 1,
-    "lastCheckedUtc": "2026-11-20T02:18:34Z"
+    "lastCheckedUtc": "2026-11-20T02:26:32Z"
   },
-  "generatedUtc": "2026-11-20T02:26:02.0600465Z",
-  "sourceSha256": "8D8A208F16C54788C94142BB86A91AD1DF7EBE62DE57FCF72D8FA11018DA3544",
+  "generatedUtc": "2026-11-20T02:27:40.9286825Z",
+  "sourceSha256": "77419ED71B6CC09AEBBF734CCC5980ACC38910104B33CF2114E7FA36D5359C90",
   "staleAfterMinutes": 30
 }
