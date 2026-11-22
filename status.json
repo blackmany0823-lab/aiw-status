@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -11,9 +11,9 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-22 13:17",
+  "lastSuccessfulSync": "2026-11-22 13:23",
   "recentOrderStatusCounts": {
-    "完成": 6,
+    "完成": 5,
     "失敗": 2,
     "需要 Owner": 0,
     "進行中": 0,
@@ -21,8 +21,8 @@
   },
   "agentOrderCounts": {
     "Claude Code": 682,
-    "Codex": 856,
-    "其他": 330
+    "Codex": 857,
+    "其他": 331
   },
   "usage": {
     "openai": {
@@ -30,7 +30,7 @@
       "weeklyRemainingPercent": 70,
       "fiveHourResetsUtc": "2026-11-22T05:57:04Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-22T05:22:29Z"
+      "capturedUtc": "2026-11-22T05:23:35Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 84,
@@ -41,7 +41,7 @@
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-22T05:18:24Z"
+      "capturedUtc": "2026-11-22T05:23:27Z"
     }
   },
   "projects": [
@@ -72,7 +72,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 8
@@ -91,10 +91,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 1,
-    "lastCheckedUtc": "2026-11-22T05:17:37Z"
+    "pendingCommits": 0,
+    "lastCheckedUtc": "2026-11-22T05:23:42Z"
   },
-  "generatedUtc": "2026-11-22T05:23:20.6325218Z",
-  "sourceSha256": "4D727B9D8A809309CE0F69DE17AE441E99CDAC453A1D64677AB19A8A4350EB5C",
+  "generatedUtc": "2026-11-22T05:24:23.9000549Z",
+  "sourceSha256": "B99432F859220A0C0DA1507237D38B2745272EA41E35159AABF79B36186AB29E",
   "staleAfterMinutes": 30
 }
