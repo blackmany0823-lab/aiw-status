@@ -28,16 +28,16 @@
     "openai": {
       "fiveHourRemainingPercent": 98,
       "weeklyRemainingPercent": 70,
-      "fiveHourResetsUtc": "2026-11-22T05:57:04Z",
+      "fiveHourResetsUtc": "2026-11-22T05:57:05Z",
       "weeklyResetsUtc": "2026-11-24T02:18:16Z",
-      "capturedUtc": "2026-11-22T03:48:54Z"
+      "capturedUtc": "2026-11-22T03:49:58Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 91,
       "weeklyRemainingPercent": 80,
       "fiveHourResetsUtc": "2026-11-22T06:29:00Z",
       "weeklyResetsUtc": "2026-11-27T04:59:00Z",
-      "capturedUtc": "2026-11-22T03:44:26Z"
+      "capturedUtc": "2026-11-22T03:49:43Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
@@ -92,10 +92,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
+    "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-22T03:46:34Z"
   },
-  "generatedUtc": "2026-11-22T03:49:06.6325359Z",
-  "sourceSha256": "8A759DE2EF25A8FCCB48CC784EDB419F79BCAA9DBA3A09D76965776528985FD1",
+  "generatedUtc": "2026-11-22T03:50:38.0865883Z",
+  "sourceSha256": "602B58720E544879F6311F9E7B9784875996D1902DA5A95416F779CA5CA2D810",
   "staleAfterMinutes": 30
 }
