@@ -26,11 +26,11 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 94,
+      "fiveHourRemainingPercent": 93,
       "weeklyRemainingPercent": 99,
       "fiveHourResetsUtc": "2026-11-24T17:36:44Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-24T13:31:25Z"
+      "capturedUtc": "2026-11-24T13:32:30Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 84,
@@ -95,7 +95,7 @@
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-24T13:31:30Z"
   },
-  "generatedUtc": "2026-11-24T13:31:39.8750132Z",
-  "sourceSha256": "67AB99B3D79186B9B49A3B79F50EFD12BB1129BC05FE23172E0D6E0E9D252F16",
+  "generatedUtc": "2026-11-24T13:32:44.6018236Z",
+  "sourceSha256": "19060236ACA3C27296417666CEA18644DE5C7A66E3A320981BC461F1929AF20E",
   "staleAfterMinutes": 30
 }
