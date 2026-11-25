@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 1 張工單正在處理",
+    "現在：沒有工單在跑",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -13,7 +13,7 @@
   "githubSync": "成功",
   "lastSuccessfulSync": "2026-11-26 00:12",
   "recentOrderStatusCounts": {
-    "完成": 6,
+    "完成": 7,
     "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
@@ -30,7 +30,7 @@
       "weeklyRemainingPercent": 95,
       "fiveHourResetsUtc": "2026-11-25T18:46:13Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-25T16:12:53Z"
+      "capturedUtc": "2026-11-25T16:14:57Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 42,
@@ -51,7 +51,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 113
@@ -92,10 +92,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
+    "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-25T16:12:33Z"
   },
-  "generatedUtc": "2026-11-25T16:13:40.6777334Z",
-  "sourceSha256": "AD9BE083EF9CBADA6956A2DDD63E9E62E6610D12374A7B7DEE5149E6D6B14CCC",
+  "generatedUtc": "2026-11-25T16:15:12.2379326Z",
+  "sourceSha256": "AE17C4670A25293F4181C72CF10FF3AAE52BD714308F4C94054DAFB4F6E74E24",
   "staleAfterMinutes": 30
 }
