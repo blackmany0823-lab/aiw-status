@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 1 張工單正在處理",
+    "現在：沒有工單在跑",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -10,10 +10,10 @@
   "autonomousHandoff": "開啟",
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
-  "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-26 18:25",
+  "githubSync": "UNKNOWN",
+  "lastSuccessfulSync": "UNKNOWN",
   "recentOrderStatusCounts": {
-    "完成": 6,
+    "完成": 7,
     "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
@@ -26,22 +26,22 @@
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 97,
+      "fiveHourRemainingPercent": 96,
       "weeklyRemainingPercent": 91,
       "fiveHourResetsUtc": "2026-11-26T14:47:45Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-26T10:26:13Z"
+      "capturedUtc": "2026-11-26T10:28:20Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 96,
-      "weeklyRemainingPercent": 30,
+      "fiveHourRemainingPercent": 87,
+      "weeklyRemainingPercent": 29,
       "fiveHourResetsUtc": "2026-11-26T15:20:00Z",
-      "capturedUtc": "2026-11-26T10:23:24Z"
+      "capturedUtc": "2026-11-26T10:28:39Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-26T10:23:32Z"
+      "capturedUtc": "2026-11-26T10:28:34Z"
     }
   },
   "projects": [
@@ -50,7 +50,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 113
@@ -91,10 +91,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-26T10:25:43Z"
+    "pendingCommits": 2,
+    "lastCheckedUtc": "2026-11-26T10:27:46Z"
   },
-  "generatedUtc": "2026-11-26T10:27:11.8242897Z",
-  "sourceSha256": "F43A932C129665475840157F73D25FD6F2A62A1B3869398D98ED4ED36EB36E3B",
+  "generatedUtc": "2026-11-26T10:29:17.4563642Z",
+  "sourceSha256": "04C13CC82EC48811EBFE59EF72463F959948C3C000C2906860EB6C05BC678F2B",
   "staleAfterMinutes": 30
 }
