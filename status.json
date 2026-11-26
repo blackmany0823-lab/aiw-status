@@ -11,32 +11,33 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-27 01:16",
+  "lastSuccessfulSync": "2026-11-27 01:18",
   "recentOrderStatusCounts": {
-    "完成": 6,
-    "失敗": 1,
+    "完成": 7,
+    "失敗": 0,
     "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
     "Claude Code": 722,
-    "Codex": 916,
+    "Codex": 917,
     "其他": 370
   },
   "usage": {
     "openai": {
       "fiveHourRemainingPercent": 83,
-      "weeklyRemainingPercent": 87,
+      "weeklyRemainingPercent": 86,
       "fiveHourResetsUtc": "2026-11-26T19:47:56Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-26T17:17:11Z"
+      "capturedUtc": "2026-11-26T17:18:15Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 87,
       "weeklyRemainingPercent": 18,
-      "fiveHourResetsUtc": "2026-11-26T20:20:00Z",
-      "capturedUtc": "2026-11-26T17:14:05Z"
+      "fiveHourResetsUtc": "2026-11-26T20:19:00Z",
+      "weeklyResetsUtc": "2026-11-27T04:59:00Z",
+      "capturedUtc": "2026-11-26T17:17:30Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
@@ -92,9 +93,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-26T17:16:34Z"
+    "lastCheckedUtc": "2026-11-26T17:18:35Z"
   },
-  "generatedUtc": "2026-11-26T17:17:28.1111602Z",
-  "sourceSha256": "63D1208C9475CD76161AEF84A0FEE4E73B5DDC8F1F6F88A5B9FE5610E034677E",
+  "generatedUtc": "2026-11-26T17:18:39.1646667Z",
+  "sourceSha256": "46AEAF9DFCD186FE870960E7E477909C748E439CA6DA9EF3FB1EC6067293112B",
   "staleAfterMinutes": 30
 }
