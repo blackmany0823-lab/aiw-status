@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -13,14 +13,14 @@
   "githubSync": "成功",
   "lastSuccessfulSync": "2026-11-26 18:21",
   "recentOrderStatusCounts": {
-    "完成": 7,
+    "完成": 6,
     "失敗": 1,
     "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 718,
+    "Claude Code": 719,
     "Codex": 899,
     "其他": 366
   },
@@ -30,19 +30,18 @@
       "weeklyRemainingPercent": 91,
       "fiveHourResetsUtc": "2026-11-26T14:47:45Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-26T10:21:55Z"
+      "capturedUtc": "2026-11-26T10:23:01Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 51,
-      "weeklyRemainingPercent": 31,
-      "fiveHourResetsUtc": "2026-11-26T10:19:00Z",
-      "weeklyResetsUtc": "2026-11-27T04:59:00Z",
-      "capturedUtc": "2026-11-26T10:17:40Z"
+      "fiveHourRemainingPercent": 96,
+      "weeklyRemainingPercent": 30,
+      "fiveHourResetsUtc": "2026-11-26T15:20:00Z",
+      "capturedUtc": "2026-11-26T10:23:24Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-26T10:18:31Z"
+      "capturedUtc": "2026-11-26T10:23:32Z"
     }
   },
   "projects": [
@@ -51,7 +50,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 113
@@ -93,9 +92,9 @@
   ],
   "gitSync": {
     "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-26T10:21:31Z"
+    "lastCheckedUtc": "2026-11-26T10:23:41Z"
   },
-  "generatedUtc": "2026-11-26T10:22:48.1615592Z",
-  "sourceSha256": "F80FA070997E00473FE62D18ACA35DA406CDCC7DD89215F91392823FC9A7B797",
+  "generatedUtc": "2026-11-26T10:23:50.3354201Z",
+  "sourceSha256": "B59469607F834A3DDBB6D642F6B0D8E74D22FDE5EB999EE527ECAD0E4130E0E6",
   "staleAfterMinutes": 30
 }
