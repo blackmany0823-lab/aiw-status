@@ -21,23 +21,23 @@
   },
   "agentOrderCounts": {
     "Claude Code": 717,
-    "Codex": 894,
+    "Codex": 895,
     "其他": 366
   },
   "usage": {
     "openai": {
-      "fiveHourRemainingPercent": 100,
+      "fiveHourRemainingPercent": 99,
       "weeklyRemainingPercent": 92,
       "fiveHourResetsUtc": "2026-11-26T09:47:39Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-26T06:27:00Z"
+      "capturedUtc": "2026-11-26T06:29:05Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 75,
+      "fiveHourRemainingPercent": 68,
       "weeklyRemainingPercent": 33,
       "fiveHourResetsUtc": "2026-11-26T10:19:00Z",
       "weeklyResetsUtc": "2026-11-27T04:59:00Z",
-      "capturedUtc": "2026-11-26T06:23:38Z"
+      "capturedUtc": "2026-11-26T06:28:44Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
@@ -92,10 +92,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-26T06:27:48Z"
+    "pendingCommits": 1,
+    "lastCheckedUtc": "2026-11-26T06:29:07Z"
   },
-  "generatedUtc": "2026-11-26T06:28:05.1758740Z",
-  "sourceSha256": "63F5C7ED8F401D4D6DFFC750F2E6EA63216D4D3B28857118681144BDF6B55850",
+  "generatedUtc": "2026-11-26T06:29:09.8904276Z",
+  "sourceSha256": "4958EB26C7A3B920FFE0219136615097EAD13C2378B4EE6670923404FD06D10E",
   "staleAfterMinutes": 30
 }
