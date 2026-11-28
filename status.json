@@ -30,17 +30,18 @@
       "weeklyRemainingPercent": 79,
       "fiveHourResetsUtc": "2026-11-28T06:55:42Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-28T03:41:26Z"
+      "capturedUtc": "2026-11-28T03:42:30Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 71,
-      "capturedUtc": "2026-11-28T03:36:32Z"
+      "weeklyResetsUtc": "2026-12-04T04:59:00Z",
+      "capturedUtc": "2026-11-28T03:41:51Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-28T03:37:05Z"
+      "capturedUtc": "2026-11-28T03:42:06Z"
     }
   },
   "projects": [
@@ -90,10 +91,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
+    "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-28T03:41:34Z"
   },
-  "generatedUtc": "2026-11-28T03:41:49.9076584Z",
-  "sourceSha256": "68782E0BE5E5CF71A1FAA66D2A19845E5D2C9D58F10520C9D8196CA4B5FB835A",
+  "generatedUtc": "2026-11-28T03:42:56.7872801Z",
+  "sourceSha256": "7A52147DFB7EA570577D80990BF38E8A0491EAFF0FDDB578038CA33F8316DFCA",
   "staleAfterMinutes": 30
 }
