@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：有 1 張工單正在處理",
+    "現在：沒有工單在跑",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -13,7 +13,7 @@
   "githubSync": "成功",
   "lastSuccessfulSync": "2026-11-28 23:44",
   "recentOrderStatusCounts": {
-    "完成": 7,
+    "完成": 8,
     "失敗": 0,
     "需要 Owner": 0,
     "進行中": 0,
@@ -25,22 +25,15 @@
     "其他": 370
   },
   "usage": {
-    "openai": {
-      "fiveHourRemainingPercent": 89,
-      "weeklyRemainingPercent": 77,
-      "fiveHourResetsUtc": "2026-11-28T16:55:57Z",
-      "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-28T15:45:07Z"
-    },
     "claude": {
       "fiveHourRemainingPercent": 100,
       "weeklyRemainingPercent": 57,
-      "capturedUtc": "2026-11-28T15:40:43Z"
+      "capturedUtc": "2026-11-28T15:46:10Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-28T15:41:08Z"
+      "capturedUtc": "2026-11-28T15:46:40Z"
     }
   },
   "projects": [
@@ -60,7 +53,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 14
@@ -93,7 +86,7 @@
     "pendingCommits": 0,
     "lastCheckedUtc": "2026-11-28T15:44:39Z"
   },
-  "generatedUtc": "2026-11-28T15:45:38.9331166Z",
-  "sourceSha256": "5FEBD2F7F15DEB04A9A03E7FAA4EA61A497CBA3B17B6983A7302AC331EA24F93",
+  "generatedUtc": "2026-11-28T15:46:44.8435940Z",
+  "sourceSha256": "060DB8AED189F6DB39C1473C0FB4FCD12AEBF918852E4DF7850A474C9099B25F",
   "staleAfterMinutes": 30
 }
