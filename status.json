@@ -20,8 +20,8 @@
     "結果不明": 0
   },
   "agentOrderCounts": {
-    "Claude Code": 755,
-    "Codex": 964,
+    "Claude Code": 756,
+    "Codex": 965,
     "其他": 370
   },
   "usage": {
@@ -30,13 +30,13 @@
       "weeklyRemainingPercent": 76,
       "fiveHourResetsUtc": "2026-11-28T16:55:57Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-28T16:26:12Z"
+      "capturedUtc": "2026-11-28T16:27:16Z"
     },
     "claude": {
-      "fiveHourRemainingPercent": 91,
-      "weeklyRemainingPercent": 56,
+      "fiveHourRemainingPercent": 81,
+      "weeklyRemainingPercent": 55,
       "fiveHourResetsUtc": "2026-11-28T20:40:00Z",
-      "capturedUtc": "2026-11-28T16:23:07Z"
+      "capturedUtc": "2026-11-28T16:27:25Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
@@ -50,7 +50,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 113
@@ -61,7 +61,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 1,
+        "working": 0,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 14
@@ -88,13 +88,35 @@
         "reviewing": 0,
         "waitingOwner": 20
       }
+    },
+    {
+      "category": "未分類",
+      "shade": "light",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
+    },
+    {
+      "category": "未分類",
+      "shade": "dark",
+      "counts": {
+        "queued": 0,
+        "working": 1,
+        "waitingReview": 0,
+        "reviewing": 0,
+        "waitingOwner": 0
+      }
     }
   ],
   "gitSync": {
     "pendingCommits": 1,
     "lastCheckedUtc": "2026-11-28T16:26:33Z"
   },
-  "generatedUtc": "2026-11-28T16:27:13.2773941Z",
-  "sourceSha256": "94F17A8A764AF3CDED3BA54DD5E82557CBC28EB1B809BC36EA6BE64001AD5595",
+  "generatedUtc": "2026-11-28T16:28:21.2799218Z",
+  "sourceSha256": "B1EDF0B516F420F98A44E569BF6C5B9DF7DDDF16DD3A8D2D41F766F47702001F",
   "staleAfterMinutes": 30
 }
