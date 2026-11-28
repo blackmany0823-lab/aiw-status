@@ -2,7 +2,7 @@
   "readOnly": true,
   "parseStatus": "OK",
   "plainLines": [
-    "現在：沒有工單在跑",
+    "現在：有 1 張工單正在處理",
     "卡住：沒有",
     "要你做的事：沒有"
   ],
@@ -11,17 +11,17 @@
   "postman": "開啟",
   "humanGatesPending": "UNKNOWN",
   "githubSync": "成功",
-  "lastSuccessfulSync": "2026-11-28 23:09",
+  "lastSuccessfulSync": "2026-11-28 23:11",
   "recentOrderStatusCounts": {
     "完成": 7,
-    "失敗": 1,
+    "失敗": 0,
     "需要 Owner": 0,
     "進行中": 0,
     "結果不明": 0
   },
   "agentOrderCounts": {
     "Claude Code": 753,
-    "Codex": 960,
+    "Codex": 961,
     "其他": 370
   },
   "usage": {
@@ -30,18 +30,18 @@
       "weeklyRemainingPercent": 77,
       "fiveHourResetsUtc": "2026-11-28T16:55:57Z",
       "weeklyResetsUtc": "2026-12-01T12:36:44Z",
-      "capturedUtc": "2026-11-28T15:10:41Z"
+      "capturedUtc": "2026-11-28T15:11:41Z"
     },
     "claude": {
       "fiveHourRemainingPercent": 0,
       "weeklyRemainingPercent": 57,
       "fiveHourResetsUtc": "2026-11-28T15:20:00Z",
-      "capturedUtc": "2026-11-28T15:10:14Z"
+      "capturedUtc": "2026-11-28T15:11:26Z"
     },
     "copilot": {
       "monthlyRemainingPercent": 3.5414761666666834,
       "monthlyResetsUtc": "2026-12-01T00:00:00Z",
-      "capturedUtc": "2026-11-28T15:05:49Z"
+      "capturedUtc": "2026-11-28T15:10:53Z"
     }
   },
   "projects": [
@@ -50,7 +50,7 @@
       "shade": "medium",
       "counts": {
         "queued": 0,
-        "working": 0,
+        "working": 1,
         "waitingReview": 0,
         "reviewing": 0,
         "waitingOwner": 113
@@ -91,10 +91,10 @@
     }
   ],
   "gitSync": {
-    "pendingCommits": 0,
-    "lastCheckedUtc": "2026-11-28T15:09:34Z"
+    "pendingCommits": 1,
+    "lastCheckedUtc": "2026-11-28T15:11:36Z"
   },
-  "generatedUtc": "2026-11-28T15:10:46.7208600Z",
-  "sourceSha256": "409B7C957B247C8AEBA98004C2EC98726D51D0F118C1982305AE033BD6ACB421",
+  "generatedUtc": "2026-11-28T15:11:50.8859536Z",
+  "sourceSha256": "47B016BBF95E5263FD9E8E19B0503E0A00FFBD6E3CCD310FEDA3DFBB06B149A4",
   "staleAfterMinutes": 30
 }
